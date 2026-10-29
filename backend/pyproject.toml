@@ -1,0 +1,19 @@
+[project]
+name = "opsentinel-backend"
+version = "1.0.0"
+description = "OPSENTINEL — AI DevOps Incident Intelligence & Root Cause Analysis Agent"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+asyncio_mode = "auto"
+addopts = "-q"
+
+[tool.ruff]
+line-length = 110
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+ignore = ["E501", "B008"]
