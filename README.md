@@ -1,11 +1,14 @@
 # 🛡️ OPSENTINEL — AI DevOps Incident Intelligence & Root Cause Analysis Agent
 
 [![OPSENTINEL CI/CD Pipeline](https://github.com/swami28/OPSENTINEL/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/swami28/OPSENTINEL/actions/workflows/ci-cd.yml)
+[![RevLens Analytics CI](https://github.com/swami28/OPSENTINEL/actions/workflows/revlens-analytics-ci.yml/badge.svg)](https://github.com/swami28/OPSENTINEL/actions/workflows/revlens-analytics-ci.yml)
 ![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115%2B-009688?logo=fastapi&logoColor=white)
 ![React 18](https://img.shields.io/badge/React-18%20%2B%20TypeScript-61DAFB?logo=react&logoColor=black)
 ![PostgreSQL + pgvector](https://img.shields.io/badge/PostgreSQL_16-pgvector_HNSW-4169E1?logo=postgresql&logoColor=white)
 ![Redis 7](https://img.shields.io/badge/Redis_7-Cache_%26_Sessions-DC382D?logo=redis&logoColor=white)
+
+> 📊 **Also included in this repository:** [**RevLens — B2B SaaS Revenue, Retention & Decision Science Analytics (`./revlens-analytics`)**](./revlens-analytics/README.md) — An end-to-end Data Analyst portfolio project featuring automated ETL data cleaning, a 5-table SQL Star-Schema Warehouse, statistical hypothesis testing (`Chi-Square`, `Mann-Whitney U`, `Welch's t-test`, `A/B Pricing`), cross-validated Churn ML, an executed EDA Jupyter Notebook, and an interactive Executive BI & SQL Workbench.
 
 **OPSENTINEL** is an AI-powered Site Reliability Engineering (SRE) & DevOps Incident Intelligence platform that accelerates initial production triage and Root Cause Analysis (RCA).
 

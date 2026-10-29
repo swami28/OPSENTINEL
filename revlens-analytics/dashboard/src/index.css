@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-image:
+      radial-gradient(circle at 15% 0%, rgba(79, 70, 229, 0.12), transparent 36%),
+      radial-gradient(circle at 85% 5%, rgba(16, 185, 129, 0.08), transparent 32%);
+    background-attachment: fixed;
+  }
+}

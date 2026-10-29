@@ -1,0 +1,17 @@
+[project]
+name = "revlens-analytics"
+version = "1.0.0"
+description = "End-to-End B2B SaaS Revenue, Customer Retention & Decision Science Analytics Platform"
+requires-python = ">=3.11"
+
+[tool.ruff]
+line-length = 110
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+ignore = ["E501"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

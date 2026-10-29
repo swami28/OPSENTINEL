@@ -1,0 +1,93 @@
+name: RevLens Analytics CI & GitHub Pages
+
+on:
+  push:
+    branches: ["main", "arena/**"]
+  pull_request:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  verify-and-build:
+    name: "ETL + SQL Warehouse + Stats/ML Pytest + BI Build"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: revlens-analytics/requirements.txt
+
+      - name: Install Python analytics dependencies
+        working-directory: revlens-analytics
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Lint Python analytics pipeline with Ruff
+        working-directory: revlens-analytics
+        run: ruff check src tests
+
+      - name: Execute ETL, Star-Schema SQL Warehouse & Statistical Suite
+        working-directory: revlens-analytics
+        run: python -m src.build_analytics
+
+      - name: Run Pytest Data Quality, SQL Identity & API Suite
+        working-directory: revlens-analytics
+        run: pytest -v
+
+      - name: Set up Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+          cache-dependency-path: revlens-analytics/dashboard/package-lock.json
+
+      - name: Typecheck, Vitest & Build Production BI Dashboard
+        working-directory: revlens-analytics/dashboard
+        run: |
+          npm ci
+          npm run typecheck
+          npm test
+          npm run build
+
+      - name: Upload Production BI Dashboard Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: revlens-analytics-bi-dist
+          path: revlens-analytics/dashboard/dist
+          retention-days: 14
+
+      - name: Upload GitHub Pages Artifact (main branch)
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: revlens-analytics/dashboard/dist
+
+  deploy-pages:
+    name: "Deploy Dashboard to GitHub Pages"
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    needs: verify-and-build
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

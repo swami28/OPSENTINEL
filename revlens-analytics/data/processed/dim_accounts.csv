@@ -1,0 +1,621 @@
+account_id,company_name,segment,industry,region,acquisition_channel,signup_date,signup_month,signup_quarter,billing_cadence,plan_tier,employee_count,licensed_seats,cac_usd,onboarding_completed,onboarding_days
+ACC-0001,Vertex Dynamics 1,Mid-Market,DevTools,North America,Paid Search,2025-04-24,2025-04,2025-Q2,Monthly,Growth,344,46,19079.57,1,13.0
+ACC-0002,Nova Ops 2,SMB,FinTech,North America,Product-Led Organic,2025-11-19,2025-11,2025-Q4,Monthly,Starter,37,6,3723.22,0,18.0
+ACC-0003,Stratos Analytics 3,SMB,HealthTech,North America,Product-Led Organic,2026-01-14,2026-01,2026-Q1,Monthly,Growth,56,17,3899.1,1,5.0
+ACC-0004,Pulse Commerce 4,SMB,DevTools,EMEA,Events & Webinars,2025-04-22,2025-04,2025-Q2,Annual,Starter,16,14,9933.63,1,12.7
+ACC-0005,Vanguard Technologies 5,Mid-Market,FinTech,North America,Partner Referral,2025-11-15,2025-11,2025-Q4,Monthly,Scale,286,32,14003.03,1,8.4
+ACC-0006,Kinetix Logistics 6,SMB,B2B SaaS,EMEA,Paid Search,2026-09-22,2026-09,2026-Q3,Monthly,Starter,52,13,10045.59,0,34.9
+ACC-0007,CloudBridge Labs 7,Mid-Market,B2B SaaS,EMEA,Outbound SDR,2026-09-27,2026-09,2026-Q3,Annual,Growth,319,18,31634.51,0,33.9
+ACC-0008,DataForge Health 8,Enterprise,E-Commerce,EMEA,Product-Led Organic,2025-04-22,2025-04,2025-Q2,Annual,Scale,2114,45,17033.21,1,7.3
+ACC-0009,Aether Group 9,Enterprise,B2B SaaS,LATAM,Product-Led Organic,2025-06-02,2025-06,2025-Q2,Annual,Enterprise,3511,193,16222.62,1,5.7
+ACC-0010,Helios Networks 10,SMB,Cybersecurity,APAC,Paid Search,2025-04-23,2025-04,2025-Q2,Monthly,Starter,71,15,7637.97,1,5.1
+ACC-0011,Cipher Software 11,SMB,B2B SaaS,EMEA,Product-Led Organic,2026-04-16,2026-04,2026-Q2,Monthly,Starter,22,10,3815.54,1,12.5
+ACC-0012,Nexus AI 12,Enterprise,E-Commerce,EMEA,Outbound SDR,2025-10-27,2025-10,2025-Q4,Monthly,Enterprise,686,183,68073.25,1,12.4
+ACC-0013,Vector Security 13,SMB,Supply Chain,North America,Paid Search,2025-08-07,2025-08,2025-Q3,Annual,Growth,21,10,9012.55,1,13.6
+ACC-0014,Metric Cloud 14,SMB,DevTools,EMEA,Partner Referral,2025-04-24,2025-04,2025-Q2,Annual,Growth,62,10,5024.06,1,6.1
+ACC-0015,Quantum FinTech 15,SMB,DevTools,LATAM,Product-Led Organic,2026-07-20,2026-07,2026-Q3,Monthly,Starter,63,7,3996.98,1,10.5
+ACC-0016,Cobalt Systems 16,SMB,B2B SaaS,EMEA,Product-Led Organic,2025-04-13,2025-04,2025-Q2,Monthly,Growth,25,14,3483.55,1,3.2
+ACC-0017,Synapse Dynamics 17,SMB,Cybersecurity,North America,Product-Led Organic,2026-09-21,2026-09,2026-Q3,Monthly,Starter,40,14,2943.95,0,36.8
+ACC-0018,Atlas Ops 18,Mid-Market,B2B SaaS,North America,Product-Led Organic,2026-03-03,2026-03,2026-Q1,Monthly,Scale,205,46,8935.61,1,6.5
+ACC-0019,Prism Analytics 19,Mid-Market,HealthTech,APAC,Outbound SDR,2026-01-18,2026-01,2026-Q1,Annual,Scale,105,35,30797.53,1,12.3
+ACC-0020,Beacon Commerce 20,SMB,Supply Chain,North America,Product-Led Organic,2025-04-05,2025-04,2025-Q2,Monthly,Starter,34,17,3234.58,0,23.8
+ACC-0021,Hyperion Technologies 21,Enterprise,FinTech,LATAM,Paid Search,2025-10-15,2025-10,2025-Q4,Annual,Enterprise,1402,61,44686.26,1,5.4
+ACC-0022,Nimbus Logistics 22,Mid-Market,HealthTech,EMEA,Partner Referral,2026-09-05,2026-09,2026-Q3,Monthly,Growth,235,17,11881.05,1,4.1
+ACC-0023,Zenith Labs 23,SMB,E-Commerce,North America,Outbound SDR,2025-10-16,2025-10,2025-Q4,Monthly,Starter,12,8,14161.79,1,9.3
+ACC-0024,Apex Health 24,Mid-Market,B2B SaaS,EMEA,Outbound SDR,2025-09-22,2025-09,2025-Q3,Annual,Growth,391,46,27267.57,0,15.1
+ACC-0025,Vertex Group 25,SMB,DevTools,North America,Product-Led Organic,2025-05-04,2025-05,2025-Q2,Monthly,Growth,36,5,3508.47,1,8.9
+ACC-0026,Nova Networks 26,Mid-Market,Cybersecurity,North America,Product-Led Organic,2026-07-09,2026-07,2026-Q3,Annual,Scale,217,41,7675.71,1,13.4
+ACC-0027,Stratos Software 27,SMB,HealthTech,EMEA,Paid Search,2025-05-05,2025-05,2025-Q2,Annual,Growth,73,8,8407.22,1,5.1
+ACC-0028,Pulse AI 28,Mid-Market,Supply Chain,EMEA,Outbound SDR,2025-04-04,2025-04,2025-Q2,Annual,Scale,427,49,23568.7,1,3.3
+ACC-0029,Vanguard Security 29,Mid-Market,Cybersecurity,EMEA,Partner Referral,2025-04-17,2025-04,2025-Q2,Annual,Scale,220,42,13944.11,1,3.5
+ACC-0030,Kinetix Cloud 30,SMB,Cybersecurity,EMEA,Product-Led Organic,2026-07-21,2026-07,2026-Q3,Annual,Growth,29,14,3769.75,1,6.7
+ACC-0031,CloudBridge FinTech 31,Enterprise,DevTools,LATAM,Outbound SDR,2026-04-04,2026-04,2026-Q2,Annual,Enterprise,484,49,59307.69,1,10.0
+ACC-0032,DataForge Systems 32,Mid-Market,E-Commerce,LATAM,Product-Led Organic,2026-03-07,2026-03,2026-Q1,Annual,Scale,389,51,7271.08,1,4.4
+ACC-0033,Aether Dynamics 33,SMB,B2B SaaS,North America,Product-Led Organic,2025-10-02,2025-10,2025-Q4,Monthly,Starter,70,17,2900.75,1,5.6
+ACC-0034,Helios Ops 34,SMB,B2B SaaS,APAC,Paid Search,2026-06-18,2026-06,2026-Q2,Monthly,Growth,35,4,7766.82,1,10.5
+ACC-0035,Cipher Analytics 35,SMB,E-Commerce,EMEA,Outbound SDR,2026-08-27,2026-08,2026-Q3,Annual,Growth,65,6,10527.33,1,9.0
+ACC-0036,Nexus Commerce 36,SMB,FinTech,EMEA,Outbound SDR,2025-10-08,2025-10,2025-Q4,Monthly,Growth,16,5,14736.64,0,19.2
+ACC-0037,Vector Technologies 37,SMB,Cybersecurity,North America,Partner Referral,2025-12-17,2025-12,2025-Q4,Monthly,Starter,54,5,5890.42,1,12.2
+ACC-0038,Metric Logistics 38,Mid-Market,DevTools,LATAM,Product-Led Organic,2026-04-09,2026-04,2026-Q2,Annual,Scale,125,45,8279.25,1,7.7
+ACC-0039,Quantum Labs 39,Mid-Market,DevTools,North America,Product-Led Organic,2026-01-09,2026-01,2026-Q1,Monthly,Scale,286,41,9209.75,1,4.6
+ACC-0040,Cobalt Health 40,SMB,Cybersecurity,North America,Paid Search,2026-05-26,2026-05,2026-Q2,Monthly,Starter,68,11,9883.13,0,35.3
+ACC-0041,Synapse Group 41,SMB,FinTech,North America,Product-Led Organic,2025-04-19,2025-04,2025-Q2,Annual,Growth,9,10,3149.88,0,36.1
+ACC-0042,Atlas Networks 42,SMB,Cybersecurity,North America,Product-Led Organic,2025-05-21,2025-05,2025-Q2,Annual,Starter,54,16,4049.17,0,22.3
+ACC-0043,Prism Software 43,SMB,B2B SaaS,EMEA,Outbound SDR,2026-04-15,2026-04,2026-Q2,Annual,Starter,34,13,12038.7,1,7.5
+ACC-0044,Beacon AI 44,Mid-Market,FinTech,North America,Partner Referral,2026-07-23,2026-07,2026-Q3,Monthly,Scale,120,40,11350.84,1,5.9
+ACC-0045,Hyperion Security 45,Mid-Market,B2B SaaS,LATAM,Outbound SDR,2025-08-18,2025-08,2025-Q3,Annual,Growth,286,41,25372.2,1,10.7
+ACC-0046,Nimbus Cloud 46,SMB,Supply Chain,North America,Outbound SDR,2026-06-10,2026-06,2026-Q2,Monthly,Starter,20,8,14503.86,1,11.3
+ACC-0047,Zenith FinTech 47,Mid-Market,B2B SaaS,North America,Outbound SDR,2025-04-03,2025-04,2025-Q2,Annual,Scale,103,36,26287.66,0,36.6
+ACC-0048,Apex Systems 48,Mid-Market,FinTech,North America,Product-Led Organic,2025-12-24,2025-12,2025-Q4,Monthly,Scale,354,39,6715.49,1,12.5
+ACC-0049,Vertex Dynamics 49,SMB,B2B SaaS,EMEA,Paid Search,2026-04-15,2026-04,2026-Q2,Annual,Starter,31,4,7537.41,1,7.6
+ACC-0050,Nova Ops 50,Enterprise,E-Commerce,North America,Partner Referral,2025-06-22,2025-06,2025-Q2,Annual,Scale,3537,50,26666.35,1,5.8
+ACC-0051,Stratos Analytics 51,SMB,Cybersecurity,North America,Product-Led Organic,2026-02-05,2026-02,2026-Q1,Annual,Starter,51,8,2872.62,1,7.5
+ACC-0052,Pulse Commerce 52,SMB,Supply Chain,EMEA,Paid Search,2025-12-09,2025-12,2025-Q4,Monthly,Growth,77,9,10153.56,1,4.1
+ACC-0053,Vanguard Technologies 53,SMB,E-Commerce,EMEA,Paid Search,2025-04-23,2025-04,2025-Q2,Monthly,Growth,41,13,8636.41,0,30.4
+ACC-0054,Kinetix Logistics 54,Mid-Market,E-Commerce,North America,Product-Led Organic,2026-06-16,2026-06,2026-Q2,Monthly,Growth,172,16,7084.71,1,5.7
+ACC-0055,CloudBridge Labs 55,SMB,B2B SaaS,EMEA,Outbound SDR,2026-06-14,2026-06,2026-Q2,Annual,Starter,56,9,11925.12,0,26.1
+ACC-0056,DataForge Health 56,SMB,FinTech,APAC,Events & Webinars,2025-12-13,2025-12,2025-Q4,Monthly,Growth,35,8,9093.1,1,12.2
+ACC-0057,Aether Group 57,Mid-Market,E-Commerce,EMEA,Product-Led Organic,2026-08-21,2026-08,2026-Q3,Monthly,Growth,186,43,7188.53,1,4.0
+ACC-0058,Helios Networks 58,SMB,FinTech,EMEA,Product-Led Organic,2026-02-20,2026-02,2026-Q1,Monthly,Starter,23,5,3425.92,1,7.5
+ACC-0059,Cipher Software 59,SMB,DevTools,North America,Outbound SDR,2026-06-20,2026-06,2026-Q2,Annual,Starter,41,4,12316.84,1,9.4
+ACC-0060,Nexus AI 60,SMB,Supply Chain,North America,Product-Led Organic,2026-01-24,2026-01,2026-Q1,Annual,Starter,61,12,3119.92,1,13.3
+ACC-0061,Vector Security 61,Enterprise,FinTech,EMEA,Outbound SDR,2026-03-10,2026-03,2026-Q1,Annual,Enterprise,3875,48,55659.41,1,4.5
+ACC-0062,Metric Cloud 62,SMB,B2B SaaS,LATAM,Outbound SDR,2025-04-25,2025-04,2025-Q2,Annual,Starter,23,6,12559.51,1,6.0
+ACC-0063,Quantum FinTech 63,Mid-Market,E-Commerce,EMEA,Paid Search,2026-06-23,2026-06,2026-Q2,Annual,Scale,390,30,18845.55,1,7.6
+ACC-0064,Cobalt Systems 64,Mid-Market,Cybersecurity,North America,Outbound SDR,2025-10-18,2025-10,2025-Q4,Monthly,Growth,169,48,26557.72,0,28.4
+ACC-0065,Synapse Dynamics 65,Mid-Market,Cybersecurity,APAC,Paid Search,2026-09-11,2026-09,2026-Q3,Annual,Growth,123,16,19808.52,1,12.8
+ACC-0066,Atlas Ops 66,Mid-Market,DevTools,EMEA,Paid Search,2025-07-20,2025-07,2025-Q3,Monthly,Scale,171,47,17224.29,0,31.2
+ACC-0067,Prism Analytics 67,SMB,HealthTech,EMEA,Paid Search,2025-07-20,2025-07,2025-Q3,Annual,Growth,70,17,7991.74,1,7.7
+ACC-0068,Beacon Commerce 68,Mid-Market,Supply Chain,North America,Product-Led Organic,2025-04-13,2025-04,2025-Q2,Annual,Scale,291,53,7794.99,1,10.7
+ACC-0069,Hyperion Technologies 69,SMB,Supply Chain,LATAM,Events & Webinars,2025-04-20,2025-04,2025-Q2,Monthly,Growth,9,13,10352.93,1,7.1
+ACC-0070,Nimbus Logistics 70,Mid-Market,Supply Chain,North America,Partner Referral,2025-08-03,2025-08,2025-Q3,Annual,Growth,180,50,11082.23,1,11.4
+ACC-0071,Zenith Labs 71,Mid-Market,DevTools,North America,Product-Led Organic,2026-05-15,2026-05,2026-Q2,Monthly,Growth,268,53,7662.63,1,12.7
+ACC-0072,Apex Health 72,Enterprise,Supply Chain,EMEA,Outbound SDR,2025-06-25,2025-06,2025-Q2,Monthly,Enterprise,3111,72,63528.83,0,18.6
+ACC-0073,Vertex Group 73,SMB,E-Commerce,EMEA,Outbound SDR,2026-09-19,2026-09,2026-Q3,Monthly,Growth,30,4,11110.2,1,12.9
+ACC-0074,Nova Networks 74,Enterprise,Supply Chain,North America,Outbound SDR,2026-06-19,2026-06,2026-Q2,Annual,Enterprise,783,156,59792.98,1,10.4
+ACC-0075,Stratos Software 75,SMB,HealthTech,EMEA,Product-Led Organic,2025-04-03,2025-04,2025-Q2,Monthly,Starter,30,12,3529.54,1,7.7
+ACC-0076,Pulse AI 76,SMB,B2B SaaS,APAC,Product-Led Organic,2026-01-11,2026-01,2026-Q1,Annual,Starter,56,12,3910.81,1,8.7
+ACC-0077,Vanguard Security 77,SMB,FinTech,EMEA,Outbound SDR,2025-04-24,2025-04,2025-Q2,Monthly,Growth,29,15,12578.59,1,9.9
+ACC-0078,Kinetix Cloud 78,Mid-Market,E-Commerce,EMEA,Partner Referral,2026-09-08,2026-09,2026-Q3,Annual,Scale,224,44,10902.62,0,37.0
+ACC-0079,CloudBridge FinTech 79,SMB,Cybersecurity,North America,Outbound SDR,2025-09-14,2025-09,2025-Q3,Monthly,Starter,54,7,10254.05,1,12.5
+ACC-0080,DataForge Systems 80,Enterprise,FinTech,North America,Product-Led Organic,2025-04-14,2025-04,2025-Q2,Annual,Enterprise,3713,140,13157.86,1,10.4
+ACC-0081,Aether Dynamics 81,Mid-Market,Cybersecurity,North America,Product-Led Organic,2025-06-24,2025-06,2025-Q2,Monthly,Growth,164,54,6877.53,1,4.1
+ACC-0082,Helios Ops 82,Mid-Market,DevTools,LATAM,Outbound SDR,2026-09-04,2026-09,2026-Q3,Monthly,Scale,315,54,33284.05,0,24.1
+ACC-0083,Cipher Analytics 83,SMB,Cybersecurity,North America,Partner Referral,2025-04-15,2025-04,2025-Q2,Monthly,Growth,74,8,6296.62,1,3.3
+ACC-0084,Nexus Commerce 84,Enterprise,Cybersecurity,North America,Product-Led Organic,2026-07-04,2026-07,2026-Q3,Monthly,Enterprise,479,71,14079.87,0,16.3
+ACC-0085,Vector Technologies 85,Mid-Market,HealthTech,APAC,Partner Referral,2026-06-18,2026-06,2026-Q2,Annual,Growth,417,50,10138.96,1,7.7
+ACC-0086,Metric Logistics 86,Mid-Market,Supply Chain,North America,Product-Led Organic,2025-04-05,2025-04,2025-Q2,Annual,Growth,228,22,7015.69,0,30.9
+ACC-0087,Quantum Labs 87,Mid-Market,E-Commerce,North America,Events & Webinars,2025-04-25,2025-04,2025-Q2,Monthly,Scale,382,43,23830.66,0,19.0
+ACC-0088,Cobalt Health 88,SMB,B2B SaaS,LATAM,Paid Search,2025-04-06,2025-04,2025-Q2,Monthly,Growth,64,15,7604.95,0,21.7
+ACC-0089,Synapse Group 89,SMB,Cybersecurity,North America,Product-Led Organic,2025-12-17,2025-12,2025-Q4,Monthly,Growth,70,17,3628.64,1,10.7
+ACC-0090,Atlas Networks 90,Mid-Market,B2B SaaS,EMEA,Product-Led Organic,2025-11-23,2025-11,2025-Q4,Monthly,Scale,144,20,8913.34,1,3.4
+ACC-0091,Prism Software 91,Mid-Market,FinTech,North America,Outbound SDR,2025-04-17,2025-04,2025-Q2,Monthly,Growth,423,44,30453.8,1,12.6
+ACC-0092,Beacon AI 92,Enterprise,B2B SaaS,North America,Partner Referral,2026-02-22,2026-02,2026-Q1,Annual,Enterprise,1430,91,26534.9,1,7.9
+ACC-0093,Hyperion Security 93,Mid-Market,Supply Chain,North America,Partner Referral,2025-04-17,2025-04,2025-Q2,Annual,Growth,203,20,12270.23,1,10.6
+ACC-0094,Nimbus Cloud 94,Mid-Market,HealthTech,APAC,Outbound SDR,2025-04-20,2025-04,2025-Q2,Annual,Growth,187,18,33345.15,1,11.2
+ACC-0095,Zenith FinTech 95,Mid-Market,DevTools,North America,Outbound SDR,2025-07-03,2025-07,2025-Q3,Annual,Scale,222,45,28386.93,1,6.9
+ACC-0096,Apex Systems 96,SMB,DevTools,North America,Outbound SDR,2025-04-13,2025-04,2025-Q2,Monthly,Growth,11,8,13423.56,1,10.9
+ACC-0097,Vertex Dynamics 97,Enterprise,FinTech,EMEA,Outbound SDR,2025-11-20,2025-11,2025-Q4,Annual,Enterprise,2399,185,57664.63,1,12.3
+ACC-0098,Nova Ops 98,Mid-Market,B2B SaaS,APAC,Partner Referral,2025-04-11,2025-04,2025-Q2,Annual,Scale,348,32,10417.02,1,10.0
+ACC-0099,Stratos Analytics 99,SMB,DevTools,North America,Events & Webinars,2025-04-01,2025-04,2025-Q2,Monthly,Starter,45,9,9795.38,1,11.3
+ACC-0100,Pulse Commerce 100,Enterprise,Supply Chain,APAC,Paid Search,2025-12-12,2025-12,2025-Q4,Annual,Enterprise,2148,105,33069.56,1,5.7
+ACC-0101,Vanguard Technologies 101,Enterprise,DevTools,EMEA,Outbound SDR,2026-04-27,2026-04,2026-Q2,Annual,Scale,2617,141,49691.05,1,9.5
+ACC-0102,Kinetix Logistics 102,Enterprise,FinTech,EMEA,Outbound SDR,2026-05-01,2026-05,2026-Q2,Annual,Enterprise,3548,145,50356.26,1,3.6
+ACC-0103,CloudBridge Labs 103,SMB,FinTech,EMEA,Product-Led Organic,2025-07-12,2025-07,2025-Q3,Annual,Starter,40,4,3916.37,1,3.8
+ACC-0104,DataForge Health 104,SMB,E-Commerce,APAC,Product-Led Organic,2026-05-22,2026-05,2026-Q2,Monthly,Starter,78,8,3290.69,1,9.3
+ACC-0105,Aether Group 105,Mid-Market,HealthTech,APAC,Outbound SDR,2026-06-07,2026-06,2026-Q2,Annual,Growth,362,29,23908.41,0,32.9
+ACC-0106,Helios Networks 106,Mid-Market,B2B SaaS,North America,Paid Search,2025-11-09,2025-11,2025-Q4,Monthly,Scale,395,52,20921.83,1,11.1
+ACC-0107,Cipher Software 107,SMB,E-Commerce,North America,Paid Search,2025-04-03,2025-04,2025-Q2,Monthly,Starter,70,8,7405.09,1,8.0
+ACC-0108,Nexus AI 108,Enterprise,E-Commerce,North America,Product-Led Organic,2026-07-04,2026-07,2026-Q3,Annual,Enterprise,2938,100,14428.37,0,33.0
+ACC-0109,Vector Security 109,SMB,FinTech,North America,Product-Led Organic,2026-01-03,2026-01,2026-Q1,Annual,Starter,17,7,2832.82,1,3.6
+ACC-0110,Metric Cloud 110,Mid-Market,B2B SaaS,EMEA,Partner Referral,2025-04-06,2025-04,2025-Q2,Annual,Growth,286,18,10754.32,1,12.7
+ACC-0111,Quantum FinTech 111,Mid-Market,HealthTech,North America,Paid Search,2025-04-17,2025-04,2025-Q2,Annual,Scale,163,15,19381.75,0,31.6
+ACC-0112,Cobalt Systems 112,Enterprise,Cybersecurity,North America,Product-Led Organic,2026-04-14,2026-04,2026-Q2,Annual,Enterprise,1312,160,17859.41,1,7.8
+ACC-0113,Synapse Dynamics 113,Mid-Market,E-Commerce,North America,Outbound SDR,2025-09-26,2025-09,2025-Q3,Monthly,Scale,224,43,26815.1,1,7.2
+ACC-0114,Atlas Ops 114,Enterprise,HealthTech,APAC,Product-Led Organic,2026-04-06,2026-04,2026-Q2,Monthly,Enterprise,3423,105,13110.25,1,7.7
+ACC-0115,Prism Analytics 115,Mid-Market,E-Commerce,North America,Product-Led Organic,2026-06-22,2026-06,2026-Q2,Annual,Scale,211,45,6946.88,1,6.7
+ACC-0116,Beacon Commerce 116,SMB,B2B SaaS,North America,Partner Referral,2025-04-05,2025-04,2025-Q2,Monthly,Starter,69,5,6453.36,0,31.4
+ACC-0117,Hyperion Technologies 117,SMB,FinTech,North America,Paid Search,2025-06-01,2025-06,2025-Q2,Annual,Starter,59,8,7960.97,1,10.4
+ACC-0118,Nimbus Logistics 118,Mid-Market,Supply Chain,North America,Product-Led Organic,2025-04-12,2025-04,2025-Q2,Annual,Growth,333,20,7411.9,1,12.7
+ACC-0119,Zenith Labs 119,Enterprise,DevTools,EMEA,Partner Referral,2026-04-17,2026-04,2026-Q2,Annual,Enterprise,3847,141,25653.63,1,12.0
+ACC-0120,Apex Health 120,SMB,DevTools,EMEA,Paid Search,2026-02-26,2026-02,2026-Q1,Annual,Starter,46,10,10124.41,1,7.0
+ACC-0121,Vertex Group 121,Mid-Market,Cybersecurity,North America,Partner Referral,2026-04-08,2026-04,2026-Q2,Monthly,Growth,370,27,11807.83,0,23.0
+ACC-0122,Nova Networks 122,SMB,B2B SaaS,North America,Events & Webinars,2025-06-25,2025-06,2025-Q2,Annual,Growth,42,5,9158.37,0,16.1
+ACC-0123,Stratos Software 123,SMB,Cybersecurity,North America,Paid Search,2025-10-18,2025-10,2025-Q4,Monthly,Growth,64,13,9606.49,1,5.3
+ACC-0124,Pulse AI 124,SMB,E-Commerce,North America,Paid Search,2025-04-15,2025-04,2025-Q2,Monthly,Starter,58,6,7092.13,1,11.0
+ACC-0125,Vanguard Security 125,Mid-Market,B2B SaaS,North America,Outbound SDR,2026-08-11,2026-08,2026-Q3,Annual,Scale,400,16,28294.53,1,11.3
+ACC-0126,Kinetix Cloud 126,SMB,Supply Chain,EMEA,Product-Led Organic,2025-09-04,2025-09,2025-Q3,Monthly,Growth,51,17,3118.21,0,25.7
+ACC-0127,CloudBridge FinTech 127,Enterprise,Supply Chain,EMEA,Paid Search,2026-05-05,2026-05,2026-Q2,Annual,Scale,1771,80,38651.45,0,17.0
+ACC-0128,DataForge Systems 128,Mid-Market,DevTools,APAC,Product-Led Organic,2025-07-08,2025-07,2025-Q3,Monthly,Growth,323,23,8016.86,0,35.0
+ACC-0129,Aether Dynamics 129,Mid-Market,B2B SaaS,North America,Product-Led Organic,2025-07-05,2025-07,2025-Q3,Annual,Scale,273,38,9116.72,1,4.6
+ACC-0130,Helios Ops 130,Mid-Market,E-Commerce,North America,Paid Search,2025-04-10,2025-04,2025-Q2,Annual,Scale,159,41,22031.44,1,5.3
+ACC-0131,Cipher Analytics 131,SMB,E-Commerce,North America,Outbound SDR,2025-04-08,2025-04,2025-Q2,Annual,Growth,48,6,13019.4,1,13.3
+ACC-0132,Nexus Commerce 132,Enterprise,DevTools,LATAM,Product-Led Organic,2025-08-23,2025-08,2025-Q3,Annual,Enterprise,3025,62,17278.82,1,7.6
+ACC-0133,Vector Technologies 133,Mid-Market,E-Commerce,North America,Paid Search,2025-04-12,2025-04,2025-Q2,Annual,Scale,342,15,20958.64,0,19.2
+ACC-0134,Metric Logistics 134,Mid-Market,FinTech,EMEA,Paid Search,2025-09-17,2025-09,2025-Q3,Annual,Scale,315,27,21809.8,1,7.7
+ACC-0135,Quantum Labs 135,SMB,FinTech,LATAM,Product-Led Organic,2025-09-02,2025-09,2025-Q3,Monthly,Starter,31,11,3155.87,0,27.8
+ACC-0136,Cobalt Health 136,Mid-Market,B2B SaaS,EMEA,Product-Led Organic,2025-04-06,2025-04,2025-Q2,Monthly,Growth,346,33,6861.84,1,10.9
+ACC-0137,Synapse Group 137,Mid-Market,Supply Chain,North America,Outbound SDR,2025-11-26,2025-11,2025-Q4,Annual,Scale,246,48,32774.34,1,3.5
+ACC-0138,Atlas Networks 138,Mid-Market,Supply Chain,North America,Partner Referral,2026-01-03,2026-01,2026-Q1,Annual,Scale,350,37,13586.51,0,35.5
+ACC-0139,Prism Software 139,SMB,FinTech,LATAM,Product-Led Organic,2026-06-23,2026-06,2026-Q2,Monthly,Growth,48,9,2817.75,1,13.7
+ACC-0140,Beacon AI 140,SMB,B2B SaaS,North America,Events & Webinars,2026-05-19,2026-05,2026-Q2,Annual,Starter,32,13,10906.37,1,10.6
+ACC-0141,Hyperion Security 141,Enterprise,E-Commerce,North America,Paid Search,2025-11-04,2025-11,2025-Q4,Annual,Enterprise,2752,72,40700.1,1,7.2
+ACC-0142,Nimbus Cloud 142,Enterprise,Cybersecurity,APAC,Paid Search,2025-11-26,2025-11,2025-Q4,Annual,Scale,3825,102,32902.65,1,10.4
+ACC-0143,Zenith FinTech 143,Mid-Market,Supply Chain,EMEA,Product-Led Organic,2026-02-23,2026-02,2026-Q1,Annual,Scale,82,54,7342.35,1,13.8
+ACC-0144,Apex Systems 144,Mid-Market,Supply Chain,North America,Product-Led Organic,2025-04-13,2025-04,2025-Q2,Annual,Scale,375,28,8003.72,1,12.9
+ACC-0145,Vertex Dynamics 145,Mid-Market,HealthTech,APAC,Outbound SDR,2025-04-12,2025-04,2025-Q2,Monthly,Scale,374,34,29976.82,1,11.3
+ACC-0146,Nova Ops 146,Enterprise,HealthTech,North America,Paid Search,2026-04-07,2026-04,2026-Q2,Annual,Scale,1115,125,46498.01,1,7.2
+ACC-0147,Stratos Analytics 147,SMB,FinTech,APAC,Product-Led Organic,2025-06-27,2025-06,2025-Q2,Annual,Growth,15,4,2876.0,1,4.7
+ACC-0148,Pulse Commerce 148,Mid-Market,Supply Chain,North America,Outbound SDR,2026-03-07,2026-03,2026-Q1,Monthly,Scale,162,47,30289.28,1,13.0
+ACC-0149,Vanguard Technologies 149,Enterprise,Supply Chain,EMEA,Paid Search,2025-04-14,2025-04,2025-Q2,Annual,Enterprise,2838,129,37414.84,0,20.0
+ACC-0150,Kinetix Logistics 150,Mid-Market,FinTech,APAC,Outbound SDR,2026-08-03,2026-08,2026-Q3,Monthly,Scale,131,39,26000.09,0,34.3
+ACC-0151,CloudBridge Labs 151,SMB,E-Commerce,APAC,Paid Search,2025-04-07,2025-04,2025-Q2,Monthly,Starter,73,7,9144.34,1,4.2
+ACC-0152,DataForge Health 152,Enterprise,Supply Chain,LATAM,Product-Led Organic,2025-12-17,2025-12,2025-Q4,Monthly,Enterprise,3339,141,13523.39,1,9.3
+ACC-0153,Aether Group 153,Mid-Market,E-Commerce,EMEA,Paid Search,2025-05-22,2025-05,2025-Q2,Annual,Growth,195,24,16846.55,1,5.4
+ACC-0154,Helios Networks 154,SMB,B2B SaaS,North America,Paid Search,2025-08-22,2025-08,2025-Q3,Monthly,Growth,15,16,7063.34,0,32.5
+ACC-0155,Cipher Software 155,Mid-Market,DevTools,LATAM,Events & Webinars,2025-12-23,2025-12,2025-Q4,Annual,Scale,331,52,19917.02,1,12.2
+ACC-0156,Nexus AI 156,SMB,E-Commerce,North America,Events & Webinars,2025-04-16,2025-04,2025-Q2,Monthly,Starter,63,17,10585.88,1,12.4
+ACC-0157,Vector Security 157,Mid-Market,Cybersecurity,LATAM,Product-Led Organic,2026-05-26,2026-05,2026-Q2,Monthly,Scale,349,24,8766.42,0,34.9
+ACC-0158,Metric Cloud 158,SMB,B2B SaaS,North America,Outbound SDR,2025-09-02,2025-09,2025-Q3,Annual,Growth,28,12,13454.23,1,11.3
+ACC-0159,Quantum FinTech 159,Mid-Market,E-Commerce,LATAM,Outbound SDR,2026-07-06,2026-07,2026-Q3,Monthly,Growth,448,40,31667.1,0,36.5
+ACC-0160,Cobalt Systems 160,SMB,Supply Chain,North America,Product-Led Organic,2025-11-06,2025-11,2025-Q4,Annual,Growth,30,14,2981.59,1,11.1
+ACC-0161,Synapse Dynamics 161,SMB,FinTech,North America,Outbound SDR,2025-08-07,2025-08,2025-Q3,Monthly,Starter,74,16,11281.84,1,12.2
+ACC-0162,Atlas Ops 162,SMB,E-Commerce,North America,Outbound SDR,2026-02-12,2026-02,2026-Q1,Monthly,Growth,42,8,14815.32,1,6.5
+ACC-0163,Prism Analytics 163,SMB,HealthTech,North America,Product-Led Organic,2025-04-23,2025-04,2025-Q2,Annual,Growth,68,17,4005.27,1,9.1
+ACC-0164,Beacon Commerce 164,SMB,HealthTech,APAC,Partner Referral,2025-04-15,2025-04,2025-Q2,Monthly,Starter,51,16,5265.79,1,4.2
+ACC-0165,Hyperion Technologies 165,Mid-Market,B2B SaaS,LATAM,Product-Led Organic,2025-10-24,2025-10,2025-Q4,Annual,Growth,155,28,7502.09,0,28.6
+ACC-0166,Nimbus Logistics 166,SMB,Cybersecurity,North America,Paid Search,2025-04-17,2025-04,2025-Q2,Annual,Starter,78,9,9018.62,1,6.2
+ACC-0167,Zenith Labs 167,SMB,B2B SaaS,North America,Product-Led Organic,2025-04-04,2025-04,2025-Q2,Monthly,Growth,27,8,3093.42,1,7.3
+ACC-0168,Apex Health 168,SMB,FinTech,EMEA,Product-Led Organic,2026-09-25,2026-09,2026-Q3,Monthly,Starter,38,4,3537.72,1,13.3
+ACC-0169,Vertex Group 169,Mid-Market,HealthTech,North America,Outbound SDR,2025-04-17,2025-04,2025-Q2,Annual,Scale,423,24,23189.75,1,8.7
+ACC-0170,Nova Networks 170,SMB,Supply Chain,APAC,Product-Led Organic,2026-07-09,2026-07,2026-Q3,Monthly,Starter,46,17,3338.12,1,4.0
+ACC-0171,Stratos Software 171,Mid-Market,Cybersecurity,LATAM,Product-Led Organic,2025-10-25,2025-10,2025-Q4,Monthly,Growth,414,42,7457.06,1,11.7
+ACC-0172,Pulse AI 172,SMB,FinTech,North America,Outbound SDR,2025-08-26,2025-08,2025-Q3,Monthly,Growth,78,13,10761.92,1,9.8
+ACC-0173,Vanguard Security 173,SMB,DevTools,North America,Outbound SDR,2025-04-16,2025-04,2025-Q2,Monthly,Starter,39,11,11281.46,0,34.6
+ACC-0174,Kinetix Cloud 174,SMB,HealthTech,North America,Events & Webinars,2025-09-02,2025-09,2025-Q3,Annual,Starter,58,4,9405.78,0,29.5
+ACC-0175,CloudBridge FinTech 175,Mid-Market,Supply Chain,EMEA,Product-Led Organic,2026-09-06,2026-09,2026-Q3,Annual,Growth,367,50,6729.52,1,11.1
+ACC-0176,DataForge Systems 176,Mid-Market,B2B SaaS,EMEA,Outbound SDR,2026-08-04,2026-08,2026-Q3,Annual,Scale,129,30,33339.9,1,5.9
+ACC-0177,Aether Dynamics 177,SMB,FinTech,North America,Events & Webinars,2025-04-05,2025-04,2025-Q2,Monthly,Starter,15,11,10108.88,1,13.2
+ACC-0178,Helios Ops 178,Enterprise,Cybersecurity,North America,Product-Led Organic,2025-10-20,2025-10,2025-Q4,Annual,Enterprise,2391,55,13128.3,1,9.7
+ACC-0179,Cipher Analytics 179,Enterprise,Supply Chain,North America,Product-Led Organic,2026-06-01,2026-06,2026-Q2,Annual,Enterprise,871,147,16371.3,1,5.0
+ACC-0180,Nexus Commerce 180,Mid-Market,Cybersecurity,North America,Partner Referral,2025-04-06,2025-04,2025-Q2,Annual,Scale,376,52,12723.65,1,10.1
+ACC-0181,Vector Technologies 181,SMB,DevTools,North America,Paid Search,2026-04-09,2026-04,2026-Q2,Monthly,Growth,62,13,10125.96,0,24.9
+ACC-0182,Metric Logistics 182,Mid-Market,FinTech,EMEA,Paid Search,2025-04-14,2025-04,2025-Q2,Annual,Growth,261,52,22919.25,1,8.2
+ACC-0183,Quantum Labs 183,Enterprise,FinTech,North America,Outbound SDR,2025-04-04,2025-04,2025-Q2,Monthly,Enterprise,588,54,51975.39,0,23.1
+ACC-0184,Cobalt Health 184,SMB,DevTools,EMEA,Paid Search,2025-04-21,2025-04,2025-Q2,Monthly,Growth,37,5,7129.47,1,6.9
+ACC-0185,Synapse Group 185,Enterprise,B2B SaaS,North America,Outbound SDR,2025-04-09,2025-04,2025-Q2,Annual,Enterprise,4175,89,59805.04,1,7.2
+ACC-0186,Atlas Networks 186,Enterprise,DevTools,North America,Paid Search,2026-07-20,2026-07,2026-Q3,Annual,Enterprise,3410,200,46499.22,1,11.5
+ACC-0187,Prism Software 187,Mid-Market,FinTech,North America,Paid Search,2025-12-26,2025-12,2025-Q4,Annual,Scale,160,20,17865.59,1,11.3
+ACC-0188,Beacon AI 188,Enterprise,E-Commerce,EMEA,Product-Led Organic,2026-06-02,2026-06,2026-Q2,Annual,Enterprise,2391,147,14412.14,1,7.3
+ACC-0189,Hyperion Security 189,Mid-Market,HealthTech,EMEA,Outbound SDR,2025-04-12,2025-04,2025-Q2,Annual,Scale,417,24,28898.03,1,7.6
+ACC-0190,Nimbus Cloud 190,Enterprise,Supply Chain,EMEA,Product-Led Organic,2025-07-12,2025-07,2025-Q3,Annual,Enterprise,2806,133,14352.2,0,30.7
+ACC-0191,Zenith FinTech 191,SMB,Cybersecurity,North America,Product-Led Organic,2026-01-27,2026-01,2026-Q1,Monthly,Starter,47,9,3660.53,1,6.7
+ACC-0192,Apex Systems 192,Mid-Market,B2B SaaS,North America,Product-Led Organic,2025-09-18,2025-09,2025-Q3,Monthly,Growth,313,34,7528.79,1,3.7
+ACC-0193,Vertex Dynamics 193,Enterprise,FinTech,North America,Product-Led Organic,2025-04-08,2025-04,2025-Q2,Annual,Enterprise,1854,69,13763.56,1,10.8
+ACC-0194,Nova Ops 194,Mid-Market,E-Commerce,North America,Events & Webinars,2026-07-20,2026-07,2026-Q3,Annual,Growth,112,34,24776.64,1,12.0
+ACC-0195,Stratos Analytics 195,SMB,HealthTech,EMEA,Product-Led Organic,2026-07-11,2026-07,2026-Q3,Annual,Starter,61,5,4076.77,1,3.3
+ACC-0196,Pulse Commerce 196,Mid-Market,Cybersecurity,EMEA,Paid Search,2025-04-20,2025-04,2025-Q2,Monthly,Growth,282,25,18039.12,0,23.8
+ACC-0197,Vanguard Technologies 197,SMB,HealthTech,LATAM,Partner Referral,2025-04-08,2025-04,2025-Q2,Annual,Starter,12,17,4763.15,1,8.7
+ACC-0198,Kinetix Logistics 198,SMB,Supply Chain,North America,Product-Led Organic,2026-03-04,2026-03,2026-Q1,Monthly,Starter,74,9,3733.07,1,13.6
+ACC-0199,CloudBridge Labs 199,SMB,B2B SaaS,North America,Events & Webinars,2025-06-04,2025-06,2025-Q2,Monthly,Growth,41,7,8191.31,1,8.0
+ACC-0200,DataForge Health 200,SMB,HealthTech,APAC,Product-Led Organic,2026-01-10,2026-01,2026-Q1,Annual,Starter,8,7,3524.0,1,10.6
+ACC-0201,Aether Group 201,SMB,B2B SaaS,EMEA,Paid Search,2025-07-04,2025-07,2025-Q3,Monthly,Starter,43,12,7780.77,0,32.8
+ACC-0202,Helios Networks 202,SMB,B2B SaaS,APAC,Events & Webinars,2025-04-25,2025-04,2025-Q2,Monthly,Starter,36,12,9663.77,1,11.2
+ACC-0203,Cipher Software 203,SMB,FinTech,North America,Outbound SDR,2025-05-04,2025-05,2025-Q2,Monthly,Starter,12,16,12512.16,1,5.6
+ACC-0204,Nexus AI 204,Enterprise,HealthTech,APAC,Product-Led Organic,2025-06-09,2025-06,2025-Q2,Annual,Enterprise,4152,176,14733.22,1,12.8
+ACC-0205,Vector Security 205,SMB,Cybersecurity,North America,Outbound SDR,2026-05-08,2026-05,2026-Q2,Monthly,Growth,23,16,12385.36,0,25.9
+ACC-0206,Metric Cloud 206,Mid-Market,E-Commerce,North America,Product-Led Organic,2025-04-03,2025-04,2025-Q2,Annual,Growth,274,46,6666.12,1,13.6
+ACC-0207,Quantum FinTech 207,SMB,Supply Chain,North America,Product-Led Organic,2026-06-02,2026-06,2026-Q2,Monthly,Growth,24,5,3470.06,1,12.7
+ACC-0208,Cobalt Systems 208,SMB,HealthTech,APAC,Paid Search,2025-05-07,2025-05,2025-Q2,Annual,Starter,32,10,8653.3,0,37.6
+ACC-0209,Synapse Dynamics 209,SMB,Cybersecurity,APAC,Paid Search,2025-07-23,2025-07,2025-Q3,Annual,Growth,32,9,9513.49,1,12.4
+ACC-0210,Atlas Ops 210,SMB,Supply Chain,APAC,Outbound SDR,2025-04-23,2025-04,2025-Q2,Annual,Starter,70,14,14435.82,1,13.5
+ACC-0211,Prism Analytics 211,Mid-Market,Supply Chain,APAC,Events & Webinars,2025-04-15,2025-04,2025-Q2,Monthly,Scale,304,30,24845.35,0,22.6
+ACC-0212,Beacon Commerce 212,SMB,Supply Chain,LATAM,Paid Search,2025-04-09,2025-04,2025-Q2,Annual,Starter,17,7,7436.54,0,33.6
+ACC-0213,Hyperion Technologies 213,SMB,FinTech,EMEA,Product-Led Organic,2025-09-19,2025-09,2025-Q3,Annual,Growth,75,13,3158.53,1,9.6
+ACC-0214,Nimbus Logistics 214,Enterprise,DevTools,North America,Paid Search,2026-08-22,2026-08,2026-Q3,Annual,Enterprise,3224,77,32630.27,1,11.7
+ACC-0215,Zenith Labs 215,SMB,Cybersecurity,EMEA,Product-Led Organic,2025-04-24,2025-04,2025-Q2,Annual,Growth,44,4,3908.45,0,18.8
+ACC-0216,Apex Health 216,Mid-Market,HealthTech,EMEA,Paid Search,2026-03-02,2026-03,2026-Q1,Monthly,Scale,267,50,22432.13,1,13.6
+ACC-0217,Vertex Group 217,SMB,FinTech,North America,Paid Search,2025-08-22,2025-08,2025-Q3,Monthly,Growth,29,10,8010.52,0,36.4
+ACC-0218,Nova Networks 218,Mid-Market,DevTools,EMEA,Outbound SDR,2025-04-08,2025-04,2025-Q2,Annual,Scale,276,20,27497.04,0,19.7
+ACC-0219,Stratos Software 219,Mid-Market,E-Commerce,North America,Paid Search,2025-05-19,2025-05,2025-Q2,Monthly,Scale,360,44,17880.29,1,10.3
+ACC-0220,Pulse AI 220,Mid-Market,Supply Chain,North America,Paid Search,2025-10-25,2025-10,2025-Q4,Annual,Scale,402,26,16964.89,1,12.8
+ACC-0221,Vanguard Security 221,Mid-Market,B2B SaaS,North America,Product-Led Organic,2026-01-20,2026-01,2026-Q1,Monthly,Scale,215,40,8533.36,1,9.8
+ACC-0222,Kinetix Cloud 222,SMB,FinTech,North America,Outbound SDR,2026-05-17,2026-05,2026-Q2,Annual,Growth,53,12,12091.34,1,4.3
+ACC-0223,CloudBridge FinTech 223,SMB,FinTech,North America,Events & Webinars,2026-08-23,2026-08,2026-Q3,Monthly,Growth,46,8,7601.21,0,25.1
+ACC-0224,DataForge Systems 224,SMB,DevTools,North America,Outbound SDR,2026-09-02,2026-09,2026-Q3,Annual,Growth,33,10,14414.8,1,11.1
+ACC-0225,Aether Dynamics 225,Mid-Market,B2B SaaS,North America,Paid Search,2026-05-06,2026-05,2026-Q2,Annual,Scale,441,30,22565.62,1,9.7
+ACC-0226,Helios Ops 226,Mid-Market,E-Commerce,North America,Paid Search,2025-04-13,2025-04,2025-Q2,Annual,Scale,91,37,16408.27,1,3.4
+ACC-0227,Cipher Analytics 227,SMB,FinTech,APAC,Product-Led Organic,2025-11-08,2025-11,2025-Q4,Monthly,Starter,30,4,2840.35,1,9.7
+ACC-0228,Nexus Commerce 228,Mid-Market,E-Commerce,North America,Paid Search,2025-04-01,2025-04,2025-Q2,Annual,Growth,417,40,19373.15,1,11.7
+ACC-0229,Vector Technologies 229,Mid-Market,FinTech,EMEA,Paid Search,2026-01-05,2026-01,2026-Q1,Monthly,Growth,162,25,17117.03,1,8.3
+ACC-0230,Metric Logistics 230,Mid-Market,DevTools,APAC,Product-Led Organic,2025-12-24,2025-12,2025-Q4,Monthly,Growth,388,31,8142.97,0,16.9
+ACC-0231,Quantum Labs 231,Mid-Market,E-Commerce,LATAM,Paid Search,2026-04-16,2026-04,2026-Q2,Monthly,Scale,116,15,17470.12,0,30.4
+ACC-0232,Cobalt Health 232,SMB,E-Commerce,North America,Product-Led Organic,2025-04-08,2025-04,2025-Q2,Annual,Starter,45,8,3882.93,1,6.8
+ACC-0233,Synapse Group 233,SMB,Cybersecurity,EMEA,Paid Search,2025-10-10,2025-10,2025-Q4,Monthly,Growth,71,5,10114.57,0,32.7
+ACC-0234,Atlas Networks 234,SMB,DevTools,LATAM,Outbound SDR,2026-08-13,2026-08,2026-Q3,Monthly,Starter,72,12,10866.52,1,7.5
+ACC-0235,Prism Software 235,Enterprise,FinTech,EMEA,Paid Search,2025-07-07,2025-07,2025-Q3,Monthly,Enterprise,3704,110,33362.9,0,15.4
+ACC-0236,Beacon AI 236,SMB,DevTools,North America,Product-Led Organic,2025-04-09,2025-04,2025-Q2,Monthly,Starter,77,6,3687.68,1,7.4
+ACC-0237,Hyperion Security 237,SMB,B2B SaaS,APAC,Events & Webinars,2025-04-19,2025-04,2025-Q2,Monthly,Growth,42,17,9116.56,1,10.2
+ACC-0238,Nimbus Cloud 238,SMB,HealthTech,APAC,Product-Led Organic,2025-04-26,2025-04,2025-Q2,Monthly,Starter,38,7,3762.23,0,29.7
+ACC-0239,Zenith FinTech 239,SMB,Cybersecurity,EMEA,Events & Webinars,2025-04-04,2025-04,2025-Q2,Annual,Growth,34,4,9640.28,1,11.7
+ACC-0240,Apex Systems 240,Mid-Market,HealthTech,LATAM,Product-Led Organic,2025-04-12,2025-04,2025-Q2,Monthly,Scale,184,51,6408.4,1,8.3
+ACC-0241,Vertex Dynamics 241,SMB,Cybersecurity,EMEA,Partner Referral,2026-08-25,2026-08,2026-Q3,Monthly,Growth,52,9,5613.69,1,5.7
+ACC-0242,Nova Ops 242,Mid-Market,Cybersecurity,LATAM,Product-Led Organic,2025-07-09,2025-07,2025-Q3,Monthly,Scale,286,17,8415.21,0,17.5
+ACC-0243,Stratos Analytics 243,SMB,B2B SaaS,LATAM,Partner Referral,2025-07-01,2025-07,2025-Q3,Monthly,Starter,36,13,6443.35,1,10.5
+ACC-0244,Pulse Commerce 244,Mid-Market,Cybersecurity,EMEA,Product-Led Organic,2026-04-22,2026-04,2026-Q2,Annual,Scale,89,25,7153.07,1,13.6
+ACC-0245,Vanguard Technologies 245,SMB,FinTech,North America,Product-Led Organic,2025-11-18,2025-11,2025-Q4,Monthly,Growth,35,9,3140.91,1,12.4
+ACC-0246,Kinetix Logistics 246,Mid-Market,HealthTech,EMEA,Product-Led Organic,2026-08-16,2026-08,2026-Q3,Monthly,Scale,381,27,9057.49,1,12.5
+ACC-0247,CloudBridge Labs 247,SMB,DevTools,North America,Paid Search,2026-06-25,2026-06,2026-Q2,Annual,Starter,61,11,9600.0,1,8.0
+ACC-0248,DataForge Health 248,SMB,Cybersecurity,North America,Product-Led Organic,2025-04-01,2025-04,2025-Q2,Annual,Starter,59,15,3183.6,1,7.8
+ACC-0249,Aether Group 249,Mid-Market,B2B SaaS,North America,Product-Led Organic,2025-04-26,2025-04,2025-Q2,Annual,Scale,403,37,6900.35,0,22.7
+ACC-0250,Helios Networks 250,Mid-Market,Supply Chain,North America,Events & Webinars,2026-03-12,2026-03,2026-Q1,Annual,Growth,439,25,22648.75,0,24.2
+ACC-0251,Cipher Software 251,SMB,Cybersecurity,EMEA,Outbound SDR,2025-06-19,2025-06,2025-Q2,Monthly,Growth,54,5,14596.05,0,26.6
+ACC-0252,Nexus AI 252,SMB,E-Commerce,North America,Product-Led Organic,2025-05-11,2025-05,2025-Q2,Annual,Starter,50,12,3469.05,1,5.6
+ACC-0253,Vector Security 253,Mid-Market,Cybersecurity,APAC,Events & Webinars,2026-06-10,2026-06,2026-Q2,Annual,Scale,283,33,24844.41,1,8.8
+ACC-0254,Metric Cloud 254,SMB,Supply Chain,North America,Outbound SDR,2026-04-03,2026-04,2026-Q2,Monthly,Growth,63,12,11361.2,1,13.0
+ACC-0255,Quantum FinTech 255,Enterprise,FinTech,North America,Product-Led Organic,2026-09-12,2026-09,2026-Q3,Annual,Enterprise,1731,94,18375.54,1,10.2
+ACC-0256,Cobalt Systems 256,Mid-Market,E-Commerce,North America,Outbound SDR,2026-04-11,2026-04,2026-Q2,Annual,Scale,410,54,25138.28,1,5.1
+ACC-0257,Synapse Dynamics 257,SMB,Cybersecurity,North America,Product-Led Organic,2025-04-13,2025-04,2025-Q2,Annual,Starter,44,7,2988.36,1,3.3
+ACC-0258,Atlas Ops 258,Mid-Market,E-Commerce,LATAM,Product-Led Organic,2026-07-06,2026-07,2026-Q3,Annual,Growth,100,20,8099.16,1,4.2
+ACC-0259,Prism Analytics 259,SMB,E-Commerce,North America,Product-Led Organic,2026-08-24,2026-08,2026-Q3,Annual,Starter,78,13,3658.21,1,7.1
+ACC-0260,Beacon Commerce 260,Enterprise,Supply Chain,APAC,Outbound SDR,2025-12-07,2025-12,2025-Q4,Monthly,Enterprise,1259,98,57684.73,0,16.7
+ACC-0261,Hyperion Technologies 261,SMB,DevTools,EMEA,Paid Search,2026-05-14,2026-05,2026-Q2,Monthly,Starter,28,16,8975.41,1,11.4
+ACC-0262,Nimbus Logistics 262,Mid-Market,E-Commerce,LATAM,Outbound SDR,2026-03-02,2026-03,2026-Q1,Monthly,Scale,243,41,30849.93,0,32.0
+ACC-0263,Zenith Labs 263,Enterprise,E-Commerce,North America,Paid Search,2026-01-21,2026-01,2026-Q1,Monthly,Enterprise,490,170,42638.45,1,5.0
+ACC-0264,Apex Health 264,SMB,Supply Chain,EMEA,Partner Referral,2025-04-21,2025-04,2025-Q2,Annual,Starter,56,14,4738.17,1,13.6
+ACC-0265,Vertex Group 265,SMB,Supply Chain,EMEA,Events & Webinars,2026-07-01,2026-07,2026-Q3,Monthly,Growth,58,6,8416.71,0,18.3
+ACC-0266,Nova Networks 266,SMB,DevTools,North America,Product-Led Organic,2025-04-13,2025-04,2025-Q2,Monthly,Growth,59,9,3277.26,1,5.9
+ACC-0267,Stratos Software 267,SMB,FinTech,North America,Product-Led Organic,2025-06-06,2025-06,2025-Q2,Monthly,Starter,35,9,3495.99,1,12.7
+ACC-0268,Pulse AI 268,SMB,E-Commerce,APAC,Partner Referral,2025-04-09,2025-04,2025-Q2,Annual,Starter,9,17,4431.74,1,12.6
+ACC-0269,Vanguard Security 269,Mid-Market,HealthTech,LATAM,Paid Search,2025-07-01,2025-07,2025-Q3,Monthly,Growth,227,41,16941.14,1,9.2
+ACC-0270,Kinetix Cloud 270,Enterprise,Cybersecurity,North America,Events & Webinars,2026-03-04,2026-03,2026-Q1,Annual,Enterprise,3828,138,49737.19,0,27.2
+ACC-0271,CloudBridge FinTech 271,Mid-Market,FinTech,North America,Outbound SDR,2026-01-22,2026-01,2026-Q1,Annual,Growth,139,23,30536.63,1,10.6
+ACC-0272,DataForge Systems 272,Enterprise,E-Commerce,North America,Paid Search,2025-09-03,2025-09,2025-Q3,Monthly,Enterprise,1527,90,36065.9,1,7.7
+ACC-0273,Aether Dynamics 273,SMB,HealthTech,North America,Product-Led Organic,2026-07-18,2026-07,2026-Q3,Monthly,Growth,24,6,3486.5,1,13.1
+ACC-0274,Helios Ops 274,SMB,E-Commerce,North America,Paid Search,2026-08-23,2026-08,2026-Q3,Monthly,Starter,26,15,9193.17,1,10.3
+ACC-0275,Cipher Analytics 275,SMB,Cybersecurity,North America,Paid Search,2025-04-05,2025-04,2025-Q2,Annual,Growth,74,9,6959.38,1,13.6
+ACC-0276,Nexus Commerce 276,Mid-Market,DevTools,EMEA,Product-Led Organic,2025-05-23,2025-05,2025-Q2,Monthly,Growth,142,24,8125.67,0,20.3
+ACC-0277,Vector Technologies 277,SMB,Supply Chain,North America,Product-Led Organic,2026-02-24,2026-02,2026-Q1,Annual,Starter,73,16,3891.39,1,9.3
+ACC-0278,Metric Logistics 278,Mid-Market,Cybersecurity,North America,Product-Led Organic,2025-11-09,2025-11,2025-Q4,Annual,Scale,426,34,9134.02,1,9.4
+ACC-0279,Quantum Labs 279,SMB,Cybersecurity,North America,Paid Search,2025-04-02,2025-04,2025-Q2,Annual,Growth,41,4,8549.31,1,5.8
+ACC-0280,Cobalt Health 280,SMB,B2B SaaS,APAC,Outbound SDR,2026-06-16,2026-06,2026-Q2,Annual,Growth,38,4,13857.35,1,7.3
+ACC-0281,Synapse Group 281,SMB,DevTools,LATAM,Partner Referral,2025-04-13,2025-04,2025-Q2,Monthly,Starter,61,17,4821.18,0,36.1
+ACC-0282,Atlas Networks 282,Enterprise,HealthTech,EMEA,Paid Search,2025-10-03,2025-10,2025-Q4,Annual,Enterprise,2329,45,37460.72,1,13.1
+ACC-0283,Prism Software 283,SMB,Supply Chain,North America,Events & Webinars,2025-04-16,2025-04,2025-Q2,Monthly,Starter,21,15,9576.1,1,7.5
+ACC-0284,Beacon AI 284,Enterprise,HealthTech,EMEA,Product-Led Organic,2026-08-24,2026-08,2026-Q3,Annual,Enterprise,1009,49,18003.19,1,10.3
+ACC-0285,Hyperion Security 285,SMB,E-Commerce,North America,Outbound SDR,2025-10-11,2025-10,2025-Q4,Annual,Starter,10,10,14821.37,1,10.4
+ACC-0286,Nimbus Cloud 286,Enterprise,B2B SaaS,North America,Product-Led Organic,2025-04-23,2025-04,2025-Q2,Annual,Enterprise,3080,129,18310.51,1,11.6
+ACC-0287,Zenith FinTech 287,Mid-Market,Cybersecurity,EMEA,Product-Led Organic,2025-07-27,2025-07,2025-Q3,Monthly,Scale,447,48,7446.37,1,12.7
+ACC-0288,Apex Systems 288,Enterprise,E-Commerce,North America,Partner Referral,2026-07-27,2026-07,2026-Q3,Monthly,Enterprise,1697,81,28281.43,1,4.9
+ACC-0289,Vertex Dynamics 289,Enterprise,B2B SaaS,North America,Paid Search,2025-04-23,2025-04,2025-Q2,Annual,Enterprise,2996,168,36123.72,0,35.9
+ACC-0290,Nova Ops 290,SMB,FinTech,North America,Product-Led Organic,2026-08-17,2026-08,2026-Q3,Annual,Starter,70,13,2894.71,1,7.6
+ACC-0291,Stratos Analytics 291,SMB,Cybersecurity,North America,Product-Led Organic,2025-06-27,2025-06,2025-Q2,Monthly,Starter,57,10,3489.8,1,8.9
+ACC-0292,Pulse Commerce 292,Mid-Market,FinTech,North America,Product-Led Organic,2025-04-08,2025-04,2025-Q2,Annual,Growth,319,38,8299.07,1,3.1
+ACC-0293,Vanguard Technologies 293,Mid-Market,DevTools,North America,Events & Webinars,2025-04-04,2025-04,2025-Q2,Monthly,Scale,432,44,17538.59,1,10.3
+ACC-0294,Kinetix Logistics 294,Enterprise,B2B SaaS,EMEA,Paid Search,2026-08-25,2026-08,2026-Q3,Annual,Enterprise,2751,110,41655.38,0,36.1
+ACC-0295,CloudBridge Labs 295,Mid-Market,E-Commerce,North America,Paid Search,2026-03-23,2026-03,2026-Q1,Annual,Growth,210,24,17965.71,1,7.7
+ACC-0296,DataForge Health 296,SMB,HealthTech,North America,Partner Referral,2025-04-22,2025-04,2025-Q2,Monthly,Starter,67,16,5445.78,1,6.9
+ACC-0297,Aether Group 297,Mid-Market,DevTools,LATAM,Paid Search,2025-08-21,2025-08,2025-Q3,Monthly,Growth,308,43,17883.98,0,22.1
+ACC-0298,Helios Networks 298,SMB,Supply Chain,APAC,Partner Referral,2025-06-03,2025-06,2025-Q2,Annual,Starter,57,5,6291.29,1,5.7
+ACC-0299,Cipher Software 299,Mid-Market,FinTech,North America,Product-Led Organic,2025-04-20,2025-04,2025-Q2,Annual,Scale,200,44,6399.08,1,8.2
+ACC-0300,Nexus AI 300,SMB,Cybersecurity,LATAM,Product-Led Organic,2025-04-11,2025-04,2025-Q2,Annual,Starter,28,10,3090.45,1,7.5
+ACC-0301,Vector Security 301,Enterprise,B2B SaaS,EMEA,Paid Search,2025-05-25,2025-05,2025-Q2,Monthly,Enterprise,1758,136,38106.94,1,13.7
+ACC-0302,Metric Cloud 302,SMB,Cybersecurity,North America,Product-Led Organic,2026-01-17,2026-01,2026-Q1,Monthly,Starter,34,7,3807.72,0,29.7
+ACC-0303,Quantum FinTech 303,Enterprise,FinTech,EMEA,Outbound SDR,2026-05-22,2026-05,2026-Q2,Annual,Scale,2965,91,47395.68,1,9.4
+ACC-0304,Cobalt Systems 304,Mid-Market,Cybersecurity,North America,Events & Webinars,2026-04-01,2026-04,2026-Q2,Monthly,Growth,405,35,24477.22,0,15.5
+ACC-0305,Synapse Dynamics 305,SMB,HealthTech,EMEA,Paid Search,2026-09-01,2026-09,2026-Q3,Annual,Starter,8,9,8502.42,0,25.6
+ACC-0306,Atlas Ops 306,SMB,Supply Chain,EMEA,Outbound SDR,2026-07-24,2026-07,2026-Q3,Annual,Growth,37,10,13019.07,0,22.8
+ACC-0307,Prism Analytics 307,Enterprise,HealthTech,EMEA,Product-Led Organic,2025-12-22,2025-12,2025-Q4,Annual,Enterprise,494,67,18555.94,1,10.3
+ACC-0308,Beacon Commerce 308,SMB,Supply Chain,North America,Events & Webinars,2026-07-10,2026-07,2026-Q3,Annual,Starter,40,5,8183.31,0,32.7
+ACC-0309,Hyperion Technologies 309,Mid-Market,DevTools,North America,Events & Webinars,2026-08-03,2026-08,2026-Q3,Annual,Scale,122,40,21504.92,1,5.4
+ACC-0310,Nimbus Logistics 310,Mid-Market,Supply Chain,LATAM,Paid Search,2025-07-26,2025-07,2025-Q3,Monthly,Scale,346,31,20736.52,1,4.4
+ACC-0311,Zenith Labs 311,Mid-Market,E-Commerce,North America,Product-Led Organic,2026-03-27,2026-03,2026-Q1,Annual,Scale,215,31,9161.05,1,4.0
+ACC-0312,Apex Health 312,Enterprise,Supply Chain,LATAM,Events & Webinars,2026-07-07,2026-07,2026-Q3,Annual,Enterprise,1957,77,35764.63,1,3.8
+ACC-0313,Vertex Group 313,SMB,HealthTech,LATAM,Product-Led Organic,2026-07-07,2026-07,2026-Q3,Monthly,Starter,14,14,2954.19,1,9.1
+ACC-0314,Nova Networks 314,Enterprise,E-Commerce,North America,Paid Search,2025-07-11,2025-07,2025-Q3,Annual,Enterprise,819,112,32279.39,1,3.8
+ACC-0315,Stratos Software 315,Mid-Market,DevTools,EMEA,Outbound SDR,2026-02-06,2026-02,2026-Q1,Annual,Scale,199,52,31518.91,0,20.7
+ACC-0316,Pulse AI 316,SMB,Supply Chain,North America,Product-Led Organic,2025-04-12,2025-04,2025-Q2,Monthly,Starter,70,11,2847.52,0,23.1
+ACC-0317,Vanguard Security 317,SMB,E-Commerce,North America,Partner Referral,2025-05-05,2025-05,2025-Q2,Monthly,Growth,48,16,4540.04,1,11.5
+ACC-0318,Kinetix Cloud 318,SMB,HealthTech,North America,Events & Webinars,2026-04-17,2026-04,2026-Q2,Monthly,Starter,29,9,10199.31,1,7.7
+ACC-0319,CloudBridge FinTech 319,Mid-Market,FinTech,EMEA,Product-Led Organic,2025-12-05,2025-12,2025-Q4,Monthly,Scale,366,49,7797.05,1,8.9
+ACC-0320,DataForge Systems 320,Mid-Market,DevTools,North America,Events & Webinars,2025-04-07,2025-04,2025-Q2,Annual,Scale,170,30,18507.95,1,9.1
+ACC-0321,Aether Dynamics 321,SMB,Supply Chain,North America,Product-Led Organic,2025-12-03,2025-12,2025-Q4,Annual,Growth,72,11,3576.37,1,12.0
+ACC-0322,Helios Ops 322,Mid-Market,E-Commerce,APAC,Product-Led Organic,2026-04-19,2026-04,2026-Q2,Annual,Scale,263,29,6932.48,1,5.6
+ACC-0323,Cipher Analytics 323,Mid-Market,DevTools,LATAM,Events & Webinars,2026-04-01,2026-04,2026-Q2,Annual,Scale,304,17,20823.83,1,9.3
+ACC-0324,Nexus Commerce 324,SMB,B2B SaaS,LATAM,Product-Led Organic,2025-09-09,2025-09,2025-Q3,Monthly,Starter,38,7,3177.34,1,6.1
+ACC-0325,Vector Technologies 325,SMB,Supply Chain,North America,Outbound SDR,2025-04-15,2025-04,2025-Q2,Annual,Starter,23,11,12958.03,1,4.6
+ACC-0326,Metric Logistics 326,Mid-Market,E-Commerce,EMEA,Outbound SDR,2026-05-25,2026-05,2026-Q2,Annual,Scale,157,19,25933.25,1,10.0
+ACC-0327,Quantum Labs 327,Mid-Market,E-Commerce,North America,Paid Search,2026-02-07,2026-02,2026-Q1,Annual,Scale,410,22,16242.23,0,30.0
+ACC-0328,Cobalt Health 328,SMB,Cybersecurity,North America,Paid Search,2025-04-14,2025-04,2025-Q2,Monthly,Starter,13,16,7902.9,1,4.3
+ACC-0329,Synapse Group 329,SMB,FinTech,LATAM,Product-Led Organic,2026-08-18,2026-08,2026-Q3,Annual,Starter,47,4,3156.95,1,11.6
+ACC-0330,Atlas Networks 330,Enterprise,B2B SaaS,North America,Partner Referral,2026-07-12,2026-07,2026-Q3,Annual,Scale,3190,155,29090.58,1,12.2
+ACC-0331,Prism Software 331,Mid-Market,E-Commerce,North America,Product-Led Organic,2025-04-13,2025-04,2025-Q2,Monthly,Scale,303,24,7835.44,1,9.1
+ACC-0332,Beacon AI 332,SMB,HealthTech,APAC,Product-Led Organic,2026-05-18,2026-05,2026-Q2,Annual,Starter,70,17,2867.95,1,10.9
+ACC-0333,Hyperion Security 333,SMB,B2B SaaS,APAC,Product-Led Organic,2025-11-19,2025-11,2025-Q4,Monthly,Growth,26,4,3757.44,0,20.6
+ACC-0334,Nimbus Cloud 334,Mid-Market,Cybersecurity,EMEA,Paid Search,2025-11-08,2025-11,2025-Q4,Monthly,Growth,110,52,20595.87,1,12.3
+ACC-0335,Zenith FinTech 335,SMB,DevTools,North America,Paid Search,2025-04-18,2025-04,2025-Q2,Monthly,Starter,64,15,7063.7,0,30.6
+ACC-0336,Apex Systems 336,Mid-Market,DevTools,EMEA,Outbound SDR,2025-04-18,2025-04,2025-Q2,Annual,Growth,348,37,25027.86,1,13.2
+ACC-0337,Vertex Dynamics 337,SMB,DevTools,North America,Outbound SDR,2025-04-26,2025-04,2025-Q2,Annual,Growth,50,5,10679.02,1,12.7
+ACC-0338,Nova Ops 338,SMB,Supply Chain,EMEA,Paid Search,2025-07-20,2025-07,2025-Q3,Monthly,Growth,57,8,9955.51,0,27.3
+ACC-0339,Stratos Analytics 339,SMB,FinTech,North America,Outbound SDR,2025-04-20,2025-04,2025-Q2,Monthly,Starter,37,5,12671.32,1,9.1
+ACC-0340,Pulse Commerce 340,SMB,B2B SaaS,EMEA,Partner Referral,2025-04-13,2025-04,2025-Q2,Annual,Starter,57,17,4966.65,1,9.8
+ACC-0341,Vanguard Technologies 341,SMB,B2B SaaS,EMEA,Product-Led Organic,2025-10-27,2025-10,2025-Q4,Monthly,Starter,9,4,3105.31,0,23.2
+ACC-0342,Kinetix Logistics 342,Mid-Market,E-Commerce,North America,Product-Led Organic,2025-08-01,2025-08,2025-Q3,Monthly,Growth,97,54,6648.79,0,29.8
+ACC-0343,CloudBridge Labs 343,SMB,E-Commerce,North America,Product-Led Organic,2026-02-19,2026-02,2026-Q1,Monthly,Starter,18,9,3207.1,0,25.4
+ACC-0344,DataForge Health 344,Mid-Market,HealthTech,LATAM,Paid Search,2026-02-26,2026-02,2026-Q1,Annual,Scale,311,25,22465.16,0,22.0
+ACC-0345,Aether Group 345,SMB,B2B SaaS,North America,Outbound SDR,2025-04-27,2025-04,2025-Q2,Annual,Starter,38,10,12558.5,0,24.2
+ACC-0346,Helios Networks 346,SMB,Supply Chain,North America,Product-Led Organic,2025-04-26,2025-04,2025-Q2,Monthly,Starter,33,7,3925.65,0,28.6
+ACC-0347,Cipher Software 347,SMB,Supply Chain,EMEA,Product-Led Organic,2026-07-09,2026-07,2026-Q3,Monthly,Growth,34,17,3516.48,0,36.5
+ACC-0348,Nexus AI 348,Mid-Market,DevTools,North America,Paid Search,2025-04-07,2025-04,2025-Q2,Annual,Scale,306,48,19231.56,1,13.8
+ACC-0349,Vector Security 349,SMB,DevTools,North America,Paid Search,2025-08-08,2025-08,2025-Q3,Monthly,Growth,36,4,7429.36,0,36.9
+ACC-0350,Metric Cloud 350,SMB,HealthTech,North America,Outbound SDR,2026-03-21,2026-03,2026-Q1,Monthly,Starter,78,9,12281.18,0,28.0
+ACC-0351,Quantum FinTech 351,SMB,B2B SaaS,North America,Product-Led Organic,2025-11-01,2025-11,2025-Q4,Monthly,Starter,23,7,4058.48,1,13.2
+ACC-0352,Cobalt Systems 352,SMB,Supply Chain,EMEA,Outbound SDR,2025-12-12,2025-12,2025-Q4,Monthly,Growth,42,8,10482.84,0,33.4
+ACC-0353,Synapse Dynamics 353,SMB,FinTech,APAC,Product-Led Organic,2025-10-20,2025-10,2025-Q4,Monthly,Starter,48,13,3682.48,0,18.9
+ACC-0354,Atlas Ops 354,SMB,Cybersecurity,APAC,Product-Led Organic,2026-03-26,2026-03,2026-Q1,Annual,Starter,20,13,3213.75,1,13.0
+ACC-0355,Prism Analytics 355,SMB,B2B SaaS,North America,Events & Webinars,2025-04-25,2025-04,2025-Q2,Annual,Growth,40,13,8420.19,0,20.6
+ACC-0356,Beacon Commerce 356,Mid-Market,DevTools,North America,Product-Led Organic,2025-04-16,2025-04,2025-Q2,Annual,Growth,436,43,7285.76,1,4.1
+ACC-0357,Hyperion Technologies 357,SMB,Cybersecurity,EMEA,Outbound SDR,2026-04-25,2026-04,2026-Q2,Annual,Starter,23,8,11176.09,0,24.4
+ACC-0358,Nimbus Logistics 358,SMB,Cybersecurity,North America,Partner Referral,2025-11-03,2025-11,2025-Q4,Monthly,Starter,41,10,4942.19,0,28.9
+ACC-0359,Zenith Labs 359,Enterprise,E-Commerce,EMEA,Product-Led Organic,2025-04-22,2025-04,2025-Q2,Annual,Enterprise,811,135,15604.93,1,5.3
+ACC-0360,Apex Health 360,SMB,Cybersecurity,EMEA,Paid Search,2025-04-23,2025-04,2025-Q2,Monthly,Growth,21,4,7532.86,1,13.1
+ACC-0361,Vertex Group 361,Mid-Market,HealthTech,North America,Paid Search,2026-04-04,2026-04,2026-Q2,Monthly,Scale,261,25,20105.34,0,33.2
+ACC-0362,Nova Networks 362,Mid-Market,Cybersecurity,North America,Events & Webinars,2026-09-23,2026-09,2026-Q3,Annual,Scale,135,32,22711.87,1,5.0
+ACC-0363,Stratos Software 363,Mid-Market,DevTools,North America,Outbound SDR,2025-10-04,2025-10,2025-Q4,Annual,Scale,357,21,23875.49,1,10.8
+ACC-0364,Pulse AI 364,Mid-Market,HealthTech,EMEA,Product-Led Organic,2025-09-07,2025-09,2025-Q3,Monthly,Scale,158,50,6731.63,1,6.0
+ACC-0365,Vanguard Security 365,Mid-Market,Supply Chain,EMEA,Product-Led Organic,2026-01-12,2026-01,2026-Q1,Annual,Growth,321,20,8032.71,1,10.1
+ACC-0366,Kinetix Cloud 366,Mid-Market,DevTools,EMEA,Paid Search,2025-05-26,2025-05,2025-Q2,Annual,Scale,343,34,17358.4,1,6.3
+ACC-0367,CloudBridge FinTech 367,SMB,FinTech,APAC,Product-Led Organic,2026-02-16,2026-02,2026-Q1,Monthly,Growth,41,9,3916.07,0,32.7
+ACC-0368,DataForge Systems 368,Mid-Market,HealthTech,APAC,Outbound SDR,2026-03-03,2026-03,2026-Q1,Annual,Growth,413,48,23615.17,1,11.6
+ACC-0369,Aether Dynamics 369,SMB,B2B SaaS,APAC,Paid Search,2026-09-13,2026-09,2026-Q3,Annual,Starter,39,10,8013.49,0,27.1
+ACC-0370,Helios Ops 370,Enterprise,Supply Chain,North America,Events & Webinars,2026-03-19,2026-03,2026-Q1,Monthly,Scale,1713,57,39614.38,0,36.6
+ACC-0371,Cipher Analytics 371,SMB,Supply Chain,LATAM,Product-Led Organic,2026-02-13,2026-02,2026-Q1,Monthly,Starter,12,13,2967.3,1,5.7
+ACC-0372,Nexus Commerce 372,Mid-Market,FinTech,APAC,Outbound SDR,2025-07-10,2025-07,2025-Q3,Monthly,Scale,380,28,24404.86,0,26.2
+ACC-0373,Vector Technologies 373,Mid-Market,HealthTech,North America,Events & Webinars,2026-04-14,2026-04,2026-Q2,Monthly,Scale,233,40,24690.74,0,35.6
+ACC-0374,Metric Logistics 374,Mid-Market,DevTools,North America,Paid Search,2025-04-16,2025-04,2025-Q2,Annual,Scale,343,31,21275.95,1,8.0
+ACC-0375,Quantum Labs 375,Mid-Market,E-Commerce,APAC,Product-Led Organic,2025-04-14,2025-04,2025-Q2,Monthly,Scale,150,53,6459.54,1,10.6
+ACC-0376,Cobalt Health 376,Mid-Market,Supply Chain,APAC,Paid Search,2025-08-07,2025-08,2025-Q3,Annual,Scale,105,49,22625.77,1,3.1
+ACC-0377,Synapse Group 377,SMB,FinTech,EMEA,Partner Referral,2026-06-03,2026-06,2026-Q2,Monthly,Starter,76,5,6142.63,1,13.7
+ACC-0378,Atlas Networks 378,Enterprise,HealthTech,North America,Partner Referral,2025-04-01,2025-04,2025-Q2,Annual,Enterprise,3653,68,22134.59,1,11.9
+ACC-0379,Prism Software 379,SMB,Cybersecurity,EMEA,Paid Search,2026-02-11,2026-02,2026-Q1,Monthly,Starter,71,14,8296.59,1,5.9
+ACC-0380,Beacon AI 380,Mid-Market,E-Commerce,North America,Outbound SDR,2025-04-18,2025-04,2025-Q2,Monthly,Scale,233,43,24303.6,1,8.7
+ACC-0381,Hyperion Security 381,Mid-Market,Supply Chain,North America,Outbound SDR,2025-04-08,2025-04,2025-Q2,Annual,Growth,203,51,26198.7,1,5.5
+ACC-0382,Nimbus Cloud 382,Mid-Market,DevTools,North America,Outbound SDR,2025-04-20,2025-04,2025-Q2,Annual,Scale,364,31,25272.43,0,19.3
+ACC-0383,Zenith FinTech 383,Enterprise,DevTools,North America,Product-Led Organic,2026-02-19,2026-02,2026-Q1,Monthly,Enterprise,2740,187,15116.41,1,6.8
+ACC-0384,Apex Systems 384,Mid-Market,B2B SaaS,EMEA,Paid Search,2026-01-16,2026-01,2026-Q1,Annual,Scale,114,23,18697.44,1,12.2
+ACC-0385,Vertex Dynamics 385,SMB,HealthTech,EMEA,Product-Led Organic,2026-09-07,2026-09,2026-Q3,Monthly,Growth,69,7,3350.05,0,24.8
+ACC-0386,Nova Ops 386,Mid-Market,B2B SaaS,North America,Product-Led Organic,2025-04-24,2025-04,2025-Q2,Annual,Growth,372,17,7284.24,1,13.4
+ACC-0387,Stratos Analytics 387,SMB,B2B SaaS,North America,Paid Search,2026-06-26,2026-06,2026-Q2,Monthly,Growth,72,4,8858.57,0,22.1
+ACC-0388,Pulse Commerce 388,SMB,Cybersecurity,APAC,Product-Led Organic,2026-03-14,2026-03,2026-Q1,Monthly,Starter,56,9,2816.39,1,10.4
+ACC-0389,Vanguard Technologies 389,SMB,Cybersecurity,North America,Product-Led Organic,2025-04-04,2025-04,2025-Q2,Monthly,Starter,67,11,2811.37,1,6.5
+ACC-0390,Kinetix Logistics 390,SMB,FinTech,North America,Events & Webinars,2025-04-04,2025-04,2025-Q2,Monthly,Growth,30,7,9342.17,1,3.4
+ACC-0391,CloudBridge Labs 391,Mid-Market,B2B SaaS,North America,Paid Search,2025-04-08,2025-04,2025-Q2,Annual,Scale,103,22,22197.82,1,7.3
+ACC-0392,DataForge Health 392,SMB,HealthTech,APAC,Product-Led Organic,2025-04-23,2025-04,2025-Q2,Monthly,Starter,29,6,3478.3,0,33.8
+ACC-0393,Aether Group 393,SMB,Supply Chain,APAC,Outbound SDR,2025-04-17,2025-04,2025-Q2,Monthly,Starter,55,12,12063.0,1,4.1
+ACC-0394,Helios Networks 394,Mid-Market,Supply Chain,LATAM,Product-Led Organic,2025-09-11,2025-09,2025-Q3,Monthly,Growth,295,47,7330.58,1,8.5
+ACC-0395,Cipher Software 395,Enterprise,E-Commerce,North America,Product-Led Organic,2025-04-01,2025-04,2025-Q2,Annual,Enterprise,817,58,15234.63,1,7.5
+ACC-0396,Nexus AI 396,Mid-Market,Supply Chain,APAC,Events & Webinars,2025-04-21,2025-04,2025-Q2,Annual,Scale,425,34,21150.63,1,10.2
+ACC-0397,Vector Security 397,Mid-Market,FinTech,North America,Events & Webinars,2026-07-15,2026-07,2026-Q3,Monthly,Scale,286,34,24633.44,1,13.7
+ACC-0398,Metric Cloud 398,Mid-Market,FinTech,EMEA,Product-Led Organic,2025-04-04,2025-04,2025-Q2,Annual,Growth,317,37,7583.81,1,12.5
+ACC-0399,Quantum FinTech 399,Enterprise,Cybersecurity,North America,Paid Search,2025-04-25,2025-04,2025-Q2,Annual,Scale,1073,74,36189.69,1,4.4
+ACC-0400,Cobalt Systems 400,Mid-Market,E-Commerce,North America,Events & Webinars,2025-04-02,2025-04,2025-Q2,Annual,Scale,357,37,23464.08,1,10.8
+ACC-0401,Synapse Dynamics 401,Mid-Market,B2B SaaS,LATAM,Outbound SDR,2025-07-18,2025-07,2025-Q3,Monthly,Scale,311,22,27563.32,1,10.0
+ACC-0402,Atlas Ops 402,Mid-Market,FinTech,LATAM,Product-Led Organic,2026-09-21,2026-09,2026-Q3,Annual,Scale,100,22,6731.27,1,11.5
+ACC-0403,Prism Analytics 403,SMB,B2B SaaS,APAC,Events & Webinars,2025-04-27,2025-04,2025-Q2,Annual,Starter,73,7,10520.97,0,22.7
+ACC-0404,Beacon Commerce 404,SMB,E-Commerce,EMEA,Paid Search,2026-07-27,2026-07,2026-Q3,Annual,Growth,52,16,8405.93,1,13.2
+ACC-0405,Hyperion Technologies 405,SMB,DevTools,APAC,Paid Search,2025-04-11,2025-04,2025-Q2,Annual,Growth,54,6,8530.77,1,11.1
+ACC-0406,Nimbus Logistics 406,SMB,DevTools,North America,Partner Referral,2026-02-15,2026-02,2026-Q1,Monthly,Starter,71,10,4631.51,1,4.9
+ACC-0407,Zenith Labs 407,Mid-Market,Cybersecurity,EMEA,Events & Webinars,2026-06-11,2026-06,2026-Q2,Annual,Scale,177,23,21922.0,1,4.6
+ACC-0408,Apex Health 408,Enterprise,E-Commerce,North America,Partner Referral,2026-04-15,2026-04,2026-Q2,Annual,Enterprise,1774,158,26493.05,1,8.4
+ACC-0409,Vertex Group 409,SMB,HealthTech,APAC,Outbound SDR,2025-04-10,2025-04,2025-Q2,Monthly,Growth,22,5,12532.04,1,11.4
+ACC-0410,Nova Networks 410,SMB,B2B SaaS,LATAM,Partner Referral,2025-05-12,2025-05,2025-Q2,Annual,Starter,50,13,4913.5,0,26.3
+ACC-0411,Stratos Software 411,SMB,E-Commerce,North America,Paid Search,2025-04-07,2025-04,2025-Q2,Monthly,Starter,57,15,7359.63,0,28.8
+ACC-0412,Pulse AI 412,SMB,E-Commerce,North America,Outbound SDR,2026-05-06,2026-05,2026-Q2,Monthly,Starter,14,8,10932.01,0,18.4
+ACC-0413,Vanguard Security 413,SMB,DevTools,North America,Outbound SDR,2026-03-09,2026-03,2026-Q1,Annual,Starter,29,12,10250.86,0,32.5
+ACC-0414,Kinetix Cloud 414,Mid-Market,B2B SaaS,EMEA,Paid Search,2025-09-15,2025-09,2025-Q3,Annual,Scale,120,17,19168.3,1,12.8
+ACC-0415,CloudBridge FinTech 415,Enterprise,Supply Chain,North America,Outbound SDR,2026-06-02,2026-06,2026-Q2,Annual,Enterprise,859,215,59274.94,1,12.2
+ACC-0416,DataForge Systems 416,Mid-Market,B2B SaaS,EMEA,Outbound SDR,2026-04-04,2026-04,2026-Q2,Annual,Scale,176,25,29496.91,0,38.0
+ACC-0417,Aether Dynamics 417,Mid-Market,DevTools,North America,Product-Led Organic,2025-12-05,2025-12,2025-Q4,Monthly,Growth,322,52,6908.84,1,5.0
+ACC-0418,Helios Ops 418,Mid-Market,Cybersecurity,North America,Outbound SDR,2025-07-05,2025-07,2025-Q3,Annual,Scale,259,54,30962.28,1,9.0
+ACC-0419,Cipher Analytics 419,Mid-Market,B2B SaaS,APAC,Outbound SDR,2026-05-25,2026-05,2026-Q2,Annual,Scale,302,44,28483.67,1,13.5
+ACC-0420,Nexus Commerce 420,Mid-Market,Cybersecurity,North America,Paid Search,2025-08-23,2025-08,2025-Q3,Annual,Scale,195,23,16683.59,1,9.8
+ACC-0421,Vector Technologies 421,Mid-Market,Cybersecurity,LATAM,Product-Led Organic,2026-01-23,2026-01,2026-Q1,Annual,Growth,286,21,8422.29,1,3.9
+ACC-0422,Metric Logistics 422,Mid-Market,FinTech,EMEA,Paid Search,2025-04-09,2025-04,2025-Q2,Annual,Scale,141,52,18854.16,1,8.9
+ACC-0423,Quantum Labs 423,Mid-Market,FinTech,EMEA,Outbound SDR,2026-07-09,2026-07,2026-Q3,Monthly,Scale,126,16,33191.61,0,19.0
+ACC-0424,Cobalt Health 424,SMB,B2B SaaS,North America,Product-Led Organic,2026-04-27,2026-04,2026-Q2,Annual,Starter,48,6,3119.45,1,9.8
+ACC-0425,Synapse Group 425,SMB,HealthTech,North America,Paid Search,2025-11-27,2025-11,2025-Q4,Monthly,Growth,12,17,6957.47,0,16.5
+ACC-0426,Atlas Networks 426,SMB,DevTools,EMEA,Product-Led Organic,2026-03-21,2026-03,2026-Q1,Annual,Starter,42,16,3236.83,1,11.7
+ACC-0427,Prism Software 427,SMB,E-Commerce,North America,Product-Led Organic,2026-02-13,2026-02,2026-Q1,Monthly,Starter,47,10,3462.99,0,16.8
+ACC-0428,Beacon AI 428,SMB,E-Commerce,EMEA,Product-Led Organic,2025-05-14,2025-05,2025-Q2,Monthly,Growth,39,16,3930.97,0,19.1
+ACC-0429,Hyperion Security 429,Mid-Market,HealthTech,EMEA,Outbound SDR,2025-09-19,2025-09,2025-Q3,Annual,Scale,359,24,31381.9,1,3.5
+ACC-0430,Nimbus Cloud 430,SMB,B2B SaaS,EMEA,Outbound SDR,2026-07-13,2026-07,2026-Q3,Monthly,Starter,9,9,11289.31,1,8.3
+ACC-0431,Zenith FinTech 431,Mid-Market,HealthTech,EMEA,Paid Search,2026-08-12,2026-08,2026-Q3,Annual,Scale,429,49,18412.07,1,7.4
+ACC-0432,Apex Systems 432,SMB,HealthTech,North America,Product-Led Organic,2026-09-19,2026-09,2026-Q3,Monthly,Starter,75,11,3014.12,0,15.0
+ACC-0433,Vertex Dynamics 433,Enterprise,HealthTech,EMEA,Events & Webinars,2026-06-11,2026-06,2026-Q2,Annual,Enterprise,3327,206,42673.27,1,8.9
+ACC-0434,Nova Ops 434,SMB,E-Commerce,North America,Product-Led Organic,2025-05-26,2025-05,2025-Q2,Annual,Starter,56,15,3658.29,1,4.6
+ACC-0435,Stratos Analytics 435,Mid-Market,Cybersecurity,North America,Paid Search,2026-06-04,2026-06,2026-Q2,Annual,Scale,253,44,20992.95,1,6.3
+ACC-0436,Pulse Commerce 436,Enterprise,B2B SaaS,North America,Outbound SDR,2025-06-15,2025-06,2025-Q2,Annual,Enterprise,3957,169,47726.88,0,16.4
+ACC-0437,Vanguard Technologies 437,SMB,Cybersecurity,North America,Product-Led Organic,2025-06-12,2025-06,2025-Q2,Annual,Growth,48,4,3415.87,1,7.1
+ACC-0438,Kinetix Logistics 438,SMB,Supply Chain,North America,Outbound SDR,2025-07-26,2025-07,2025-Q3,Monthly,Starter,49,9,12323.91,1,11.0
+ACC-0439,CloudBridge Labs 439,SMB,HealthTech,EMEA,Partner Referral,2025-04-20,2025-04,2025-Q2,Annual,Starter,30,12,5448.53,1,10.1
+ACC-0440,DataForge Health 440,SMB,FinTech,EMEA,Product-Led Organic,2026-08-21,2026-08,2026-Q3,Monthly,Starter,70,12,3192.27,1,11.7
+ACC-0441,Aether Group 441,Mid-Market,Supply Chain,LATAM,Product-Led Organic,2026-07-16,2026-07,2026-Q3,Monthly,Scale,227,18,6694.12,1,4.6
+ACC-0442,Helios Networks 442,Enterprise,B2B SaaS,North America,Paid Search,2025-04-21,2025-04,2025-Q2,Annual,Scale,2137,187,34267.26,1,10.2
+ACC-0443,Cipher Software 443,SMB,FinTech,APAC,Partner Referral,2025-04-10,2025-04,2025-Q2,Monthly,Starter,45,6,6225.06,1,5.6
+ACC-0444,Nexus AI 444,SMB,E-Commerce,EMEA,Outbound SDR,2026-08-21,2026-08,2026-Q3,Monthly,Growth,15,7,11846.86,1,8.5
+ACC-0445,Vector Security 445,Mid-Market,HealthTech,LATAM,Outbound SDR,2026-07-14,2026-07,2026-Q3,Monthly,Scale,207,27,23233.58,1,5.5
+ACC-0446,Metric Cloud 446,SMB,FinTech,APAC,Paid Search,2026-04-21,2026-04,2026-Q2,Monthly,Starter,33,4,7804.15,0,30.4
+ACC-0447,Quantum FinTech 447,Enterprise,E-Commerce,North America,Product-Led Organic,2026-04-22,2026-04,2026-Q2,Monthly,Scale,4190,187,13710.43,1,4.9
+ACC-0448,Cobalt Systems 448,SMB,B2B SaaS,North America,Paid Search,2025-12-22,2025-12,2025-Q4,Monthly,Starter,27,11,8924.77,1,5.0
+ACC-0449,Synapse Dynamics 449,Enterprise,HealthTech,North America,Paid Search,2025-12-04,2025-12,2025-Q4,Annual,Enterprise,1578,108,44027.25,1,12.7
+ACC-0450,Atlas Ops 450,SMB,B2B SaaS,North America,Product-Led Organic,2026-06-16,2026-06,2026-Q2,Monthly,Growth,74,8,3286.15,0,25.4
+ACC-0451,Prism Analytics 451,SMB,FinTech,North America,Partner Referral,2025-09-08,2025-09,2025-Q3,Monthly,Starter,42,12,5760.96,1,10.7
+ACC-0452,Beacon Commerce 452,Mid-Market,DevTools,North America,Events & Webinars,2025-07-11,2025-07,2025-Q3,Annual,Scale,292,33,20920.59,1,8.9
+ACC-0453,Hyperion Technologies 453,Enterprise,B2B SaaS,APAC,Product-Led Organic,2025-10-18,2025-10,2025-Q4,Annual,Enterprise,3005,120,18282.42,1,10.3
+ACC-0454,Nimbus Logistics 454,Mid-Market,E-Commerce,North America,Product-Led Organic,2025-08-06,2025-08,2025-Q3,Annual,Growth,419,48,8655.65,1,12.5
+ACC-0455,Zenith Labs 455,Enterprise,HealthTech,North America,Outbound SDR,2025-04-06,2025-04,2025-Q2,Annual,Enterprise,3962,156,58037.51,1,11.7
+ACC-0456,Apex Health 456,SMB,FinTech,EMEA,Events & Webinars,2025-04-19,2025-04,2025-Q2,Monthly,Growth,72,8,10206.74,0,29.7
+ACC-0457,Vertex Group 457,SMB,Cybersecurity,North America,Product-Led Organic,2026-01-23,2026-01,2026-Q1,Annual,Starter,15,7,3226.3,1,5.8
+ACC-0458,Nova Networks 458,Enterprise,Supply Chain,EMEA,Product-Led Organic,2025-04-12,2025-04,2025-Q2,Annual,Scale,706,123,15227.71,1,11.1
+ACC-0459,Stratos Software 459,Mid-Market,Supply Chain,North America,Paid Search,2026-07-27,2026-07,2026-Q3,Annual,Scale,286,18,20891.89,0,30.6
+ACC-0460,Pulse AI 460,SMB,FinTech,North America,Events & Webinars,2025-04-20,2025-04,2025-Q2,Monthly,Growth,19,16,9384.48,1,9.8
+ACC-0461,Vanguard Security 461,SMB,E-Commerce,North America,Paid Search,2025-04-11,2025-04,2025-Q2,Monthly,Starter,10,7,7208.67,1,11.9
+ACC-0462,Kinetix Cloud 462,SMB,B2B SaaS,North America,Outbound SDR,2025-04-26,2025-04,2025-Q2,Monthly,Starter,53,14,14130.05,0,23.4
+ACC-0463,CloudBridge FinTech 463,Mid-Market,DevTools,LATAM,Paid Search,2026-09-08,2026-09,2026-Q3,Annual,Growth,160,34,17107.02,1,9.0
+ACC-0464,DataForge Systems 464,SMB,FinTech,LATAM,Product-Led Organic,2025-04-11,2025-04,2025-Q2,Annual,Starter,56,11,3082.12,1,5.9
+ACC-0465,Aether Dynamics 465,Mid-Market,E-Commerce,APAC,Events & Webinars,2025-06-13,2025-06,2025-Q2,Annual,Scale,384,35,24140.62,0,25.6
+ACC-0466,Helios Ops 466,SMB,Cybersecurity,North America,Product-Led Organic,2025-04-19,2025-04,2025-Q2,Annual,Starter,67,4,3518.69,1,10.8
+ACC-0467,Cipher Analytics 467,Mid-Market,E-Commerce,LATAM,Paid Search,2026-05-16,2026-05,2026-Q2,Annual,Scale,421,47,18619.09,1,8.2
+ACC-0468,Nexus Commerce 468,SMB,DevTools,North America,Paid Search,2025-11-14,2025-11,2025-Q4,Monthly,Starter,58,17,7729.24,1,13.0
+ACC-0469,Vector Technologies 469,SMB,B2B SaaS,EMEA,Paid Search,2025-04-13,2025-04,2025-Q2,Monthly,Starter,42,9,7152.52,1,4.8
+ACC-0470,Metric Logistics 470,SMB,B2B SaaS,LATAM,Outbound SDR,2026-01-07,2026-01,2026-Q1,Annual,Growth,34,16,14764.2,1,12.3
+ACC-0471,Quantum Labs 471,SMB,Cybersecurity,North America,Product-Led Organic,2026-04-13,2026-04,2026-Q2,Monthly,Growth,67,13,3240.11,1,8.3
+ACC-0472,Cobalt Health 472,SMB,E-Commerce,North America,Events & Webinars,2026-01-22,2026-01,2026-Q1,Monthly,Growth,27,9,10233.61,1,4.8
+ACC-0473,Synapse Group 473,Mid-Market,Cybersecurity,North America,Outbound SDR,2026-02-24,2026-02,2026-Q1,Annual,Scale,197,46,27407.87,1,6.8
+ACC-0474,Atlas Networks 474,Mid-Market,E-Commerce,North America,Product-Led Organic,2026-06-22,2026-06,2026-Q2,Annual,Scale,182,38,6578.21,0,16.2
+ACC-0475,Prism Software 475,Mid-Market,FinTech,North America,Product-Led Organic,2026-04-05,2026-04,2026-Q2,Annual,Growth,286,26,8403.36,1,3.3
+ACC-0476,Beacon AI 476,SMB,Supply Chain,EMEA,Paid Search,2025-04-26,2025-04,2025-Q2,Monthly,Starter,48,14,9486.38,1,11.3
+ACC-0477,Hyperion Security 477,SMB,B2B SaaS,North America,Product-Led Organic,2026-06-23,2026-06,2026-Q2,Annual,Growth,55,14,3617.85,1,9.0
+ACC-0478,Nimbus Cloud 478,SMB,B2B SaaS,APAC,Paid Search,2025-04-05,2025-04,2025-Q2,Annual,Starter,67,13,8859.85,1,6.4
+ACC-0479,Zenith FinTech 479,SMB,B2B SaaS,APAC,Events & Webinars,2026-01-09,2026-01,2026-Q1,Annual,Starter,20,8,9487.45,0,20.9
+ACC-0480,Apex Systems 480,Mid-Market,HealthTech,EMEA,Product-Led Organic,2026-02-08,2026-02,2026-Q1,Annual,Scale,375,31,9121.74,1,3.7
+ACC-0481,Vertex Dynamics 481,SMB,Supply Chain,EMEA,Product-Led Organic,2025-05-08,2025-05,2025-Q2,Annual,Growth,61,10,3951.38,1,6.6
+ACC-0482,Nova Ops 482,Mid-Market,Cybersecurity,North America,Product-Led Organic,2026-04-03,2026-04,2026-Q2,Annual,Scale,107,50,6955.08,0,17.8
+ACC-0483,Stratos Analytics 483,Enterprise,HealthTech,LATAM,Outbound SDR,2025-04-23,2025-04,2025-Q2,Annual,Scale,1060,213,51981.46,1,9.0
+ACC-0484,Pulse Commerce 484,SMB,Supply Chain,North America,Partner Referral,2025-08-07,2025-08,2025-Q3,Annual,Growth,41,10,4454.47,1,12.7
+ACC-0485,Vanguard Technologies 485,SMB,B2B SaaS,North America,Product-Led Organic,2026-04-27,2026-04,2026-Q2,Annual,Starter,46,13,3090.02,1,9.1
+ACC-0486,Kinetix Logistics 486,SMB,FinTech,EMEA,Outbound SDR,2025-04-26,2025-04,2025-Q2,Annual,Starter,56,10,12433.49,1,6.4
+ACC-0487,CloudBridge Labs 487,SMB,B2B SaaS,North America,Outbound SDR,2026-03-09,2026-03,2026-Q1,Monthly,Starter,30,8,11411.77,0,23.1
+ACC-0488,DataForge Health 488,SMB,Supply Chain,EMEA,Product-Led Organic,2026-07-09,2026-07,2026-Q3,Monthly,Starter,38,5,3606.24,1,13.7
+ACC-0489,Aether Group 489,SMB,FinTech,EMEA,Paid Search,2025-04-08,2025-04,2025-Q2,Monthly,Starter,12,16,7205.86,1,10.6
+ACC-0490,Helios Networks 490,Mid-Market,Cybersecurity,APAC,Product-Led Organic,2026-03-19,2026-03,2026-Q1,Annual,Growth,302,22,8911.73,1,10.7
+ACC-0491,Cipher Software 491,Enterprise,HealthTech,North America,Paid Search,2026-02-10,2026-02,2026-Q1,Annual,Scale,4181,54,38237.57,1,5.7
+ACC-0492,Nexus AI 492,Enterprise,HealthTech,LATAM,Outbound SDR,2026-05-02,2026-05,2026-Q2,Monthly,Scale,3458,201,67433.36,1,8.6
+ACC-0493,Vector Security 493,Mid-Market,Supply Chain,APAC,Events & Webinars,2025-08-24,2025-08,2025-Q3,Annual,Scale,412,29,24160.69,1,9.3
+ACC-0494,Metric Cloud 494,SMB,E-Commerce,EMEA,Product-Led Organic,2025-06-13,2025-06,2025-Q2,Annual,Starter,71,14,3362.61,1,11.3
+ACC-0495,Quantum FinTech 495,Enterprise,B2B SaaS,North America,Product-Led Organic,2026-02-06,2026-02,2026-Q1,Annual,Enterprise,1986,70,13170.72,1,10.8
+ACC-0496,Cobalt Systems 496,Mid-Market,DevTools,APAC,Partner Referral,2025-06-21,2025-06,2025-Q2,Annual,Scale,317,42,11638.95,1,9.0
+ACC-0497,Synapse Dynamics 497,SMB,DevTools,LATAM,Product-Led Organic,2026-02-14,2026-02,2026-Q1,Monthly,Starter,17,7,3376.45,0,37.2
+ACC-0498,Atlas Ops 498,SMB,Supply Chain,North America,Product-Led Organic,2025-04-25,2025-04,2025-Q2,Monthly,Starter,23,7,2855.66,1,9.7
+ACC-0499,Prism Analytics 499,Enterprise,B2B SaaS,EMEA,Outbound SDR,2025-04-23,2025-04,2025-Q2,Annual,Enterprise,915,163,54122.81,1,3.8
+ACC-0500,Beacon Commerce 500,Mid-Market,DevTools,North America,Events & Webinars,2025-05-24,2025-05,2025-Q2,Monthly,Growth,99,45,22817.13,1,6.8
+ACC-0501,Hyperion Technologies 501,Enterprise,DevTools,APAC,Partner Referral,2026-08-09,2026-08,2026-Q3,Annual,Enterprise,1917,76,21018.09,1,3.8
+ACC-0502,Nimbus Logistics 502,Enterprise,Cybersecurity,EMEA,Paid Search,2025-04-12,2025-04,2025-Q2,Annual,Enterprise,1563,213,34659.67,0,18.9
+ACC-0503,Zenith Labs 503,Mid-Market,B2B SaaS,EMEA,Events & Webinars,2025-04-12,2025-04,2025-Q2,Annual,Scale,195,23,22063.93,1,11.5
+ACC-0504,Apex Health 504,SMB,E-Commerce,APAC,Partner Referral,2026-09-02,2026-09,2026-Q3,Monthly,Starter,51,9,4863.41,1,10.4
+ACC-0505,Vertex Group 505,SMB,FinTech,North America,Product-Led Organic,2026-04-09,2026-04,2026-Q2,Monthly,Starter,23,13,3083.39,1,12.5
+ACC-0506,Nova Networks 506,Mid-Market,Supply Chain,North America,Product-Led Organic,2026-01-23,2026-01,2026-Q1,Monthly,Growth,346,33,7960.91,1,12.4
+ACC-0507,Stratos Software 507,Mid-Market,B2B SaaS,LATAM,Product-Led Organic,2026-09-15,2026-09,2026-Q3,Annual,Scale,379,34,7590.42,1,11.9
+ACC-0508,Pulse AI 508,SMB,Supply Chain,North America,Paid Search,2026-06-02,2026-06,2026-Q2,Annual,Growth,68,9,9796.54,1,6.4
+ACC-0509,Vanguard Security 509,Mid-Market,FinTech,EMEA,Outbound SDR,2025-11-26,2025-11,2025-Q4,Annual,Growth,148,23,30160.33,1,9.4
+ACC-0510,Kinetix Cloud 510,SMB,HealthTech,EMEA,Outbound SDR,2025-04-06,2025-04,2025-Q2,Annual,Starter,32,12,12048.52,1,13.5
+ACC-0511,CloudBridge FinTech 511,SMB,Cybersecurity,EMEA,Product-Led Organic,2025-11-22,2025-11,2025-Q4,Monthly,Growth,29,9,3442.09,1,7.2
+ACC-0512,DataForge Systems 512,SMB,Supply Chain,EMEA,Events & Webinars,2025-09-21,2025-09,2025-Q3,Annual,Starter,56,6,9163.42,1,6.2
+ACC-0513,Aether Dynamics 513,SMB,Cybersecurity,EMEA,Outbound SDR,2026-01-25,2026-01,2026-Q1,Annual,Growth,39,14,14210.67,1,3.6
+ACC-0514,Helios Ops 514,Enterprise,Cybersecurity,EMEA,Events & Webinars,2026-03-23,2026-03,2026-Q1,Annual,Enterprise,3628,199,36388.17,1,10.0
+ACC-0515,Cipher Analytics 515,SMB,B2B SaaS,LATAM,Outbound SDR,2025-04-18,2025-04,2025-Q2,Monthly,Starter,76,6,10176.55,0,31.3
+ACC-0516,Nexus Commerce 516,SMB,B2B SaaS,North America,Product-Led Organic,2025-12-21,2025-12,2025-Q4,Monthly,Starter,60,17,3382.32,1,9.9
+ACC-0517,Vector Technologies 517,SMB,E-Commerce,EMEA,Paid Search,2026-04-05,2026-04,2026-Q2,Monthly,Starter,35,11,10027.83,1,5.2
+ACC-0518,Metric Logistics 518,Mid-Market,B2B SaaS,North America,Paid Search,2026-04-11,2026-04,2026-Q2,Annual,Scale,286,24,16069.14,0,31.0
+ACC-0519,Quantum Labs 519,Enterprise,B2B SaaS,EMEA,Product-Led Organic,2025-04-01,2025-04,2025-Q2,Annual,Scale,1564,182,16671.8,0,25.4
+ACC-0520,Cobalt Health 520,Mid-Market,HealthTech,EMEA,Partner Referral,2026-02-06,2026-02,2026-Q1,Monthly,Growth,267,19,13719.81,1,10.9
+ACC-0521,Synapse Group 521,SMB,FinTech,North America,Paid Search,2026-05-07,2026-05,2026-Q2,Monthly,Growth,40,5,10102.34,1,12.9
+ACC-0522,Atlas Networks 522,SMB,Cybersecurity,LATAM,Outbound SDR,2025-04-01,2025-04,2025-Q2,Monthly,Growth,77,17,14336.38,1,8.5
+ACC-0523,Prism Software 523,Mid-Market,B2B SaaS,North America,Events & Webinars,2026-06-19,2026-06,2026-Q2,Annual,Growth,395,34,21653.31,1,5.9
+ACC-0524,Beacon AI 524,SMB,E-Commerce,North America,Paid Search,2026-03-03,2026-03,2026-Q1,Monthly,Growth,22,5,8962.09,1,12.0
+ACC-0525,Hyperion Security 525,Mid-Market,DevTools,EMEA,Product-Led Organic,2025-07-25,2025-07,2025-Q3,Annual,Scale,221,33,6911.79,1,6.3
+ACC-0526,Nimbus Cloud 526,Mid-Market,FinTech,North America,Outbound SDR,2025-04-17,2025-04,2025-Q2,Annual,Scale,225,15,26975.07,1,3.5
+ACC-0527,Zenith FinTech 527,SMB,HealthTech,APAC,Paid Search,2025-10-13,2025-10,2025-Q4,Monthly,Starter,34,10,9260.41,0,19.1
+ACC-0528,Apex Systems 528,Enterprise,FinTech,EMEA,Paid Search,2025-10-03,2025-10,2025-Q4,Monthly,Enterprise,1366,49,46191.52,0,16.6
+ACC-0529,Vertex Dynamics 529,Mid-Market,HealthTech,EMEA,Product-Led Organic,2025-04-10,2025-04,2025-Q2,Monthly,Growth,190,48,8848.35,1,5.7
+ACC-0530,Nova Ops 530,Mid-Market,DevTools,LATAM,Product-Led Organic,2025-06-23,2025-06,2025-Q2,Annual,Scale,428,22,7781.96,1,5.7
+ACC-0531,Stratos Analytics 531,Mid-Market,DevTools,EMEA,Product-Led Organic,2026-06-07,2026-06,2026-Q2,Annual,Growth,430,35,8599.49,1,11.1
+ACC-0532,Pulse Commerce 532,Mid-Market,HealthTech,North America,Outbound SDR,2026-09-20,2026-09,2026-Q3,Monthly,Scale,394,29,28138.83,1,9.8
+ACC-0533,Vanguard Technologies 533,SMB,Cybersecurity,LATAM,Events & Webinars,2026-09-18,2026-09,2026-Q3,Monthly,Growth,66,16,9200.74,0,33.6
+ACC-0534,Kinetix Logistics 534,Mid-Market,E-Commerce,EMEA,Events & Webinars,2026-03-15,2026-03,2026-Q1,Annual,Growth,146,23,22252.22,1,13.2
+ACC-0535,CloudBridge Labs 535,Mid-Market,Cybersecurity,North America,Product-Led Organic,2026-04-27,2026-04,2026-Q2,Annual,Scale,443,40,8516.22,1,12.4
+ACC-0536,DataForge Health 536,SMB,FinTech,North America,Product-Led Organic,2025-12-13,2025-12,2025-Q4,Monthly,Starter,23,15,3200.26,1,8.7
+ACC-0537,Aether Group 537,Mid-Market,E-Commerce,North America,Product-Led Organic,2026-08-24,2026-08,2026-Q3,Monthly,Growth,221,36,6839.74,1,5.9
+ACC-0538,Helios Networks 538,SMB,B2B SaaS,North America,Events & Webinars,2025-04-19,2025-04,2025-Q2,Annual,Growth,36,13,10226.62,1,3.3
+ACC-0539,Cipher Software 539,SMB,B2B SaaS,North America,Partner Referral,2026-08-24,2026-08,2026-Q3,Annual,Starter,40,8,5099.39,1,9.9
+ACC-0540,Nexus AI 540,Mid-Market,B2B SaaS,APAC,Paid Search,2026-08-03,2026-08,2026-Q3,Monthly,Growth,315,31,19175.53,0,21.8
+ACC-0541,Vector Security 541,Enterprise,FinTech,APAC,Partner Referral,2026-03-07,2026-03,2026-Q1,Monthly,Enterprise,2659,63,21325.73,1,12.3
+ACC-0542,Metric Cloud 542,SMB,E-Commerce,North America,Product-Led Organic,2026-03-01,2026-03,2026-Q1,Annual,Growth,50,12,3911.62,1,10.9
+ACC-0543,Quantum FinTech 543,Mid-Market,HealthTech,North America,Outbound SDR,2025-04-14,2025-04,2025-Q2,Annual,Scale,205,33,30551.14,1,11.7
+ACC-0544,Cobalt Systems 544,SMB,Cybersecurity,EMEA,Outbound SDR,2026-01-03,2026-01,2026-Q1,Monthly,Growth,31,6,12540.65,1,12.1
+ACC-0545,Synapse Dynamics 545,SMB,FinTech,APAC,Paid Search,2026-05-14,2026-05,2026-Q2,Monthly,Growth,23,12,8072.99,1,11.8
+ACC-0546,Atlas Ops 546,Mid-Market,Supply Chain,EMEA,Outbound SDR,2025-04-24,2025-04,2025-Q2,Annual,Scale,105,19,30110.44,1,8.9
+ACC-0547,Prism Analytics 547,Enterprise,DevTools,North America,Events & Webinars,2025-07-09,2025-07,2025-Q3,Annual,Enterprise,2096,76,43613.3,1,8.1
+ACC-0548,Beacon Commerce 548,Mid-Market,E-Commerce,North America,Events & Webinars,2026-04-26,2026-04,2026-Q2,Annual,Growth,205,35,19858.92,1,3.0
+ACC-0549,Hyperion Technologies 549,SMB,B2B SaaS,North America,Outbound SDR,2026-07-01,2026-07,2026-Q3,Annual,Growth,60,15,12058.69,0,31.5
+ACC-0550,Nimbus Logistics 550,SMB,Cybersecurity,North America,Events & Webinars,2025-04-07,2025-04,2025-Q2,Annual,Growth,68,13,11043.14,1,11.7
+ACC-0551,Zenith Labs 551,SMB,FinTech,North America,Product-Led Organic,2026-03-23,2026-03,2026-Q1,Monthly,Growth,34,14,4077.77,1,6.5
+ACC-0552,Apex Health 552,Mid-Market,HealthTech,EMEA,Product-Led Organic,2025-11-03,2025-11,2025-Q4,Monthly,Scale,221,54,8130.83,0,24.0
+ACC-0553,Vertex Group 553,SMB,HealthTech,EMEA,Product-Led Organic,2025-10-15,2025-10,2025-Q4,Annual,Starter,62,15,3774.49,1,8.5
+ACC-0554,Nova Networks 554,SMB,FinTech,APAC,Paid Search,2025-05-19,2025-05,2025-Q2,Monthly,Starter,52,6,7618.0,1,9.9
+ACC-0555,Stratos Software 555,Mid-Market,HealthTech,EMEA,Paid Search,2026-08-11,2026-08,2026-Q3,Monthly,Scale,122,31,21720.01,0,17.6
+ACC-0556,Pulse AI 556,Enterprise,B2B SaaS,North America,Paid Search,2025-04-16,2025-04,2025-Q2,Annual,Enterprise,1024,164,43949.79,1,13.1
+ACC-0557,Vanguard Security 557,Mid-Market,Supply Chain,EMEA,Product-Led Organic,2025-06-06,2025-06,2025-Q2,Annual,Scale,429,22,8580.01,1,4.3
+ACC-0558,Kinetix Cloud 558,SMB,FinTech,EMEA,Outbound SDR,2025-04-14,2025-04,2025-Q2,Annual,Starter,69,7,10871.61,1,11.2
+ACC-0559,CloudBridge FinTech 559,SMB,B2B SaaS,LATAM,Paid Search,2026-05-12,2026-05,2026-Q2,Monthly,Growth,15,6,7885.12,0,16.6
+ACC-0560,DataForge Systems 560,Mid-Market,DevTools,North America,Product-Led Organic,2026-09-22,2026-09,2026-Q3,Annual,Growth,157,34,7678.14,1,8.1
+ACC-0561,Aether Dynamics 561,Enterprise,Supply Chain,North America,Product-Led Organic,2025-04-15,2025-04,2025-Q2,Annual,Enterprise,2720,71,16016.61,0,30.7
+ACC-0562,Helios Ops 562,Enterprise,Cybersecurity,North America,Paid Search,2025-09-19,2025-09,2025-Q3,Annual,Scale,4019,180,41681.11,0,32.2
+ACC-0563,Cipher Analytics 563,SMB,HealthTech,North America,Product-Led Organic,2026-02-11,2026-02,2026-Q1,Monthly,Growth,67,4,4067.58,1,9.9
+ACC-0564,Nexus Commerce 564,SMB,FinTech,North America,Events & Webinars,2026-02-07,2026-02,2026-Q1,Monthly,Starter,47,15,8435.13,1,13.2
+ACC-0565,Vector Technologies 565,Mid-Market,B2B SaaS,North America,Product-Led Organic,2026-02-16,2026-02,2026-Q1,Annual,Scale,375,29,7971.13,1,4.0
+ACC-0566,Metric Logistics 566,SMB,B2B SaaS,APAC,Outbound SDR,2025-04-03,2025-04,2025-Q2,Monthly,Starter,55,11,12550.63,1,8.2
+ACC-0567,Quantum Labs 567,SMB,B2B SaaS,EMEA,Outbound SDR,2026-02-25,2026-02,2026-Q1,Monthly,Growth,14,8,13742.83,0,25.9
+ACC-0568,Cobalt Health 568,SMB,HealthTech,North America,Outbound SDR,2025-07-20,2025-07,2025-Q3,Annual,Growth,77,10,10591.86,1,10.8
+ACC-0569,Synapse Group 569,Mid-Market,HealthTech,EMEA,Paid Search,2026-05-25,2026-05,2026-Q2,Annual,Growth,164,32,20179.11,1,4.0
+ACC-0570,Atlas Networks 570,Mid-Market,Cybersecurity,North America,Product-Led Organic,2025-04-17,2025-04,2025-Q2,Monthly,Growth,405,18,9004.36,1,9.4
+ACC-0571,Prism Software 571,SMB,HealthTech,North America,Outbound SDR,2025-12-21,2025-12,2025-Q4,Annual,Starter,31,15,13567.28,0,29.9
+ACC-0572,Beacon AI 572,SMB,E-Commerce,APAC,Partner Referral,2026-01-11,2026-01,2026-Q1,Annual,Growth,41,17,4682.22,1,5.7
+ACC-0573,Hyperion Security 573,SMB,B2B SaaS,North America,Paid Search,2026-01-16,2026-01,2026-Q1,Monthly,Growth,30,10,7637.97,0,22.2
+ACC-0574,Nimbus Cloud 574,Mid-Market,FinTech,North America,Partner Referral,2025-07-11,2025-07,2025-Q3,Monthly,Scale,342,40,12474.89,1,3.6
+ACC-0575,Zenith FinTech 575,SMB,Cybersecurity,LATAM,Product-Led Organic,2025-10-27,2025-10,2025-Q4,Monthly,Starter,44,10,3819.1,1,3.8
+ACC-0576,Apex Systems 576,SMB,Cybersecurity,EMEA,Paid Search,2026-04-13,2026-04,2026-Q2,Monthly,Growth,20,16,9080.42,1,12.6
+ACC-0577,Vertex Dynamics 577,Mid-Market,Supply Chain,APAC,Outbound SDR,2025-10-05,2025-10,2025-Q4,Annual,Scale,370,26,24197.55,1,7.9
+ACC-0578,Nova Ops 578,Enterprise,E-Commerce,North America,Paid Search,2026-02-26,2026-02,2026-Q1,Annual,Enterprise,3633,92,40461.83,1,12.3
+ACC-0579,Stratos Analytics 579,SMB,E-Commerce,North America,Outbound SDR,2026-08-09,2026-08,2026-Q3,Monthly,Growth,60,8,12682.48,1,3.3
+ACC-0580,Pulse Commerce 580,SMB,DevTools,North America,Product-Led Organic,2025-04-13,2025-04,2025-Q2,Monthly,Starter,15,6,3472.01,1,3.8
+ACC-0581,Vanguard Technologies 581,Mid-Market,B2B SaaS,EMEA,Events & Webinars,2025-12-09,2025-12,2025-Q4,Annual,Growth,151,38,24007.52,1,13.7
+ACC-0582,Kinetix Logistics 582,Enterprise,Cybersecurity,North America,Events & Webinars,2026-04-04,2026-04,2026-Q2,Annual,Enterprise,4062,177,36180.38,1,4.4
+ACC-0583,CloudBridge Labs 583,Enterprise,Supply Chain,North America,Outbound SDR,2025-06-12,2025-06,2025-Q2,Annual,Enterprise,2176,153,68001.2,1,13.5
+ACC-0584,DataForge Health 584,SMB,DevTools,APAC,Paid Search,2025-09-16,2025-09,2025-Q3,Annual,Starter,54,12,8725.59,1,7.0
+ACC-0585,Aether Group 585,Mid-Market,B2B SaaS,North America,Paid Search,2025-04-25,2025-04,2025-Q2,Annual,Scale,320,49,19761.17,1,9.6
+ACC-0586,Helios Networks 586,SMB,FinTech,North America,Events & Webinars,2026-03-09,2026-03,2026-Q1,Monthly,Growth,53,14,10218.27,0,32.2
+ACC-0587,Cipher Software 587,SMB,FinTech,North America,Product-Led Organic,2025-12-23,2025-12,2025-Q4,Monthly,Starter,28,4,4019.47,0,18.1
+ACC-0588,Nexus AI 588,Enterprise,Cybersecurity,EMEA,Paid Search,2025-04-22,2025-04,2025-Q2,Annual,Enterprise,4109,138,39932.68,1,4.3
+ACC-0589,Vector Security 589,Enterprise,Cybersecurity,North America,Paid Search,2025-04-16,2025-04,2025-Q2,Annual,Scale,3105,82,35464.74,1,9.0
+ACC-0590,Metric Cloud 590,SMB,Supply Chain,EMEA,Partner Referral,2026-04-06,2026-04,2026-Q2,Annual,Starter,14,12,6116.59,1,7.7
+ACC-0591,Quantum FinTech 591,Mid-Market,Supply Chain,North America,Events & Webinars,2025-04-19,2025-04,2025-Q2,Annual,Scale,354,54,19710.17,1,11.8
+ACC-0592,Cobalt Systems 592,Enterprise,Cybersecurity,North America,Paid Search,2025-10-24,2025-10,2025-Q4,Annual,Enterprise,611,151,44531.31,1,3.1
+ACC-0593,Synapse Dynamics 593,SMB,FinTech,EMEA,Product-Led Organic,2025-11-02,2025-11,2025-Q4,Monthly,Growth,35,8,3952.95,1,8.4
+ACC-0594,Atlas Ops 594,SMB,DevTools,APAC,Product-Led Organic,2026-02-01,2026-02,2026-Q1,Annual,Growth,29,10,3557.73,1,5.3
+ACC-0595,Prism Analytics 595,Mid-Market,B2B SaaS,North America,Outbound SDR,2025-11-09,2025-11,2025-Q4,Annual,Growth,325,24,31874.71,1,7.0
+ACC-0596,Beacon Commerce 596,Mid-Market,HealthTech,North America,Events & Webinars,2025-04-17,2025-04,2025-Q2,Annual,Growth,376,45,21727.8,0,17.5
+ACC-0597,Hyperion Technologies 597,SMB,E-Commerce,North America,Partner Referral,2025-11-16,2025-11,2025-Q4,Monthly,Growth,71,7,6003.36,1,9.6
+ACC-0598,Nimbus Logistics 598,SMB,Cybersecurity,APAC,Events & Webinars,2026-03-01,2026-03,2026-Q1,Monthly,Starter,61,11,8721.79,0,15.4
+ACC-0599,Zenith Labs 599,Mid-Market,FinTech,APAC,Product-Led Organic,2025-10-03,2025-10,2025-Q4,Monthly,Scale,417,22,8089.77,0,20.6
+ACC-0600,Apex Health 600,Mid-Market,Cybersecurity,EMEA,Product-Led Organic,2026-07-25,2026-07,2026-Q3,Annual,Scale,436,40,7572.08,1,10.0
+ACC-0601,Vertex Group 601,Mid-Market,Supply Chain,North America,Partner Referral,2026-07-25,2026-07,2026-Q3,Annual,Scale,173,21,10845.59,1,7.4
+ACC-0602,Nova Networks 602,Enterprise,B2B SaaS,LATAM,Partner Referral,2025-04-02,2025-04,2025-Q2,Annual,Scale,3789,101,26238.66,1,12.2
+ACC-0603,Stratos Software 603,Mid-Market,FinTech,EMEA,Outbound SDR,2026-06-02,2026-06,2026-Q2,Annual,Growth,427,19,28688.04,1,8.6
+ACC-0604,Pulse AI 604,Mid-Market,DevTools,APAC,Partner Referral,2025-07-17,2025-07,2025-Q3,Annual,Growth,296,26,12635.9,1,3.8
+ACC-0605,Vanguard Security 605,SMB,Supply Chain,EMEA,Paid Search,2026-02-23,2026-02,2026-Q1,Monthly,Starter,45,13,9850.8,1,3.5
+ACC-0606,Kinetix Cloud 606,SMB,E-Commerce,North America,Paid Search,2026-07-09,2026-07,2026-Q3,Annual,Growth,32,15,9983.02,0,36.8
+ACC-0607,CloudBridge FinTech 607,SMB,E-Commerce,EMEA,Paid Search,2025-04-03,2025-04,2025-Q2,Monthly,Growth,18,9,8652.01,0,30.4
+ACC-0608,DataForge Systems 608,Mid-Market,DevTools,EMEA,Product-Led Organic,2026-09-14,2026-09,2026-Q3,Annual,Scale,369,22,8108.18,0,29.4
+ACC-0609,Aether Dynamics 609,Mid-Market,E-Commerce,North America,Outbound SDR,2026-08-13,2026-08,2026-Q3,Annual,Growth,291,37,32012.73,1,5.4
+ACC-0610,Helios Ops 610,Mid-Market,B2B SaaS,EMEA,Product-Led Organic,2025-04-09,2025-04,2025-Q2,Monthly,Scale,282,18,6978.74,1,5.1
+ACC-0611,Cipher Analytics 611,Mid-Market,HealthTech,EMEA,Product-Led Organic,2025-06-08,2025-06,2025-Q2,Annual,Scale,404,32,7918.42,1,9.2
+ACC-0612,Nexus Commerce 612,SMB,B2B SaaS,North America,Product-Led Organic,2025-07-03,2025-07,2025-Q3,Monthly,Growth,60,4,3453.24,1,7.8
+ACC-0613,Vector Technologies 613,SMB,B2B SaaS,North America,Paid Search,2026-08-08,2026-08,2026-Q3,Annual,Starter,67,12,7613.6,0,17.9
+ACC-0614,Metric Logistics 614,SMB,DevTools,North America,Partner Referral,2025-06-01,2025-06,2025-Q2,Annual,Growth,14,5,5461.3,1,13.3
+ACC-0615,Quantum Labs 615,SMB,DevTools,LATAM,Product-Led Organic,2026-02-13,2026-02,2026-Q1,Monthly,Growth,65,14,3127.69,0,22.6
+ACC-0616,Cobalt Health 616,Mid-Market,Supply Chain,North America,Outbound SDR,2026-02-13,2026-02,2026-Q1,Monthly,Growth,92,50,28327.39,1,6.7
+ACC-0617,Synapse Group 617,Mid-Market,DevTools,APAC,Outbound SDR,2025-07-16,2025-07,2025-Q3,Annual,Growth,212,20,31251.51,1,8.8
+ACC-0618,Atlas Networks 618,SMB,HealthTech,APAC,Outbound SDR,2025-10-21,2025-10,2025-Q4,Annual,Starter,75,5,11057.13,1,8.3
+ACC-0619,Prism Software 619,Enterprise,HealthTech,EMEA,Product-Led Organic,2026-08-16,2026-08,2026-Q3,Annual,Enterprise,2070,194,13568.16,1,12.5
+ACC-0620,Beacon AI 620,SMB,Cybersecurity,LATAM,Events & Webinars,2025-04-21,2025-04,2025-Q2,Monthly,Growth,17,6,8026.72,0,24.6
