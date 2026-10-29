@@ -1,0 +1,71 @@
+{
+  "pipeline_status": "PASSED",
+  "raw_total_rows": 17026,
+  "clean_total_rows": 16992,
+  "post_etl_health_score_pct": 100.0,
+  "raw_cleanliness_rate_pct": 99.31,
+  "total_anomalies_remediated": 118,
+  "checks": [
+    {
+      "rule_id": "DQ-01",
+      "dimension": "Uniqueness",
+      "table": "fact_mrr_monthly & fact_product_usage",
+      "issue_detected": "Duplicate (account_id, month) ingestion snapshots",
+      "records_affected": 27,
+      "remediation": "Deduplicated deterministic primary snapshot keys",
+      "status": "Remediated"
+    },
+    {
+      "rule_id": "DQ-02",
+      "dimension": "Consistency",
+      "table": "dim_accounts",
+      "issue_detected": "Whitespace padding and mixed casing in region & segment",
+      "records_affected": 24,
+      "remediation": "Trimmed & mapped to canonical taxonomy",
+      "status": "Remediated"
+    },
+    {
+      "rule_id": "DQ-03",
+      "dimension": "Standardization",
+      "table": "dim_accounts",
+      "issue_detected": "Legacy MM/DD/YYYY signup_date strings mixed with ISO-8601",
+      "records_affected": 19,
+      "remediation": "Parsed & normalized 100% of dates to YYYY-MM-DD",
+      "status": "Remediated"
+    },
+    {
+      "rule_id": "DQ-04",
+      "dimension": "Completeness",
+      "table": "dim_accounts",
+      "issue_detected": "Missing industry tags and null employee_count attributes",
+      "records_affected": 25,
+      "remediation": "Mode imputation for industry; segment-stratified median for employee_count",
+      "status": "Remediated"
+    },
+    {
+      "rule_id": "DQ-05",
+      "dimension": "Validity",
+      "table": "fact_product_usage",
+      "issue_detected": "Telemetry sensor spikes (<0% or >100% seat utilization)",
+      "records_affected": 16,
+      "remediation": "Winsorized / bounded utilization to valid [0%, 100%] domain",
+      "status": "Remediated"
+    },
+    {
+      "rule_id": "DQ-06",
+      "dimension": "Referential Integrity",
+      "table": "fact_support_tickets",
+      "issue_detected": "Staging/QA tickets referencing non-existent account ACC-STAGE-9999",
+      "records_affected": 7,
+      "remediation": "Quarantined orphan records prior to FK-enforced warehouse load",
+      "status": "Remediated"
+    }
+  ],
+  "table_counts": {
+    "dim_accounts": 620,
+    "fact_mrr_monthly": 5954,
+    "fact_product_usage": 5817,
+    "fact_support_tickets": 3761,
+    "fact_pricing_experiment": 840
+  }
+}
